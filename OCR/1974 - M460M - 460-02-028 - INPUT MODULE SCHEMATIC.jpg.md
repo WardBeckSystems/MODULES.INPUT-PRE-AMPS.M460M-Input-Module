@@ -24,7 +24,7 @@ Wiki page: [M460M](../../../../PAGES/M460M.md)
 - **Title block:** (341, 30)–(432, 46) mm: WBS · WARD-BeCK bybtemB
 - **Wiring (first pass):** 147 connected wire groups from 808 runs, 2 dotted junctions; labelled ends: 430 mm → POSI; 157 mm → POSI; 76 mm → SELECTCA; 56 mm → LCVEL; 50 mm → LCVEL
 
-Every curve, box, word and wire group: [1974 - M460M - 460-02-028 - INPUT MODULE SCHEMATIC (traced).json](../SCHEMATICS/1974%20-%20M460M%20-%20460-02-028%20-%20INPUT%20MODULE%20SCHEMATIC%20(traced).json) (the CAD file: `1974 - M460M - 460-02-028 - INPUT MODULE SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M460M - 460-02-028 - INPUT MODULE SCHEMATIC (traced).json](../SCHEMATICS/1974%20-%20M460M%20-%20460-02-028%20-%20INPUT%20MODULE%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1974 - M460M - 460-02-028 - INPUT MODULE SCHEMATIC (traced).dxf`).
 
 ## Full text
 

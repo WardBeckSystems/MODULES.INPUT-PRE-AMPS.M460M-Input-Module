@@ -36,7 +36,7 @@ Wiki page: [M460M](../../../../PAGES/M460M.md)
 - **Title block:** (352, 0)–(432, 40) mm: ISSULIDATE · WBS WAAD-BECK BYBTEMS · DrM: CEe · 8 - 109 · BOOSTER AMPLIFIER · SCHEMATIC · IssuE · 8-109-02-001
 - **Wiring (first pass):** 52 connected wire groups from 389 runs; labelled ends: 201 mm → E3, Ri7, 4k7, Ri; 190 mm → 2N4037, R2s, 4K7, 390; 187 mm → RB, I8k, 87356, Cio; 146 mm → R32, R35, IS2, R33; 145 mm → Rzo, Y2w, R34
 
-Every curve, box, word and wire group: [1978 - 8-109-02-001 - 8-109 BOOSTER AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 1 (traced).json](../SCHEMATICS/1978%20-%208-109-02-001%20-%208-109%20BOOSTER%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20GEB%20-%20ENG%20MRW%20-%20ISS%201%20(traced).json) (the CAD file: `1978 - 8-109-02-001 - 8-109 BOOSTER AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - 8-109-02-001 - 8-109 BOOSTER AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 1 (traced).json](../SCHEMATICS/1978%20-%208-109-02-001%20-%208-109%20BOOSTER%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20GEB%20-%20ENG%20MRW%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1978 - 8-109-02-001 - 8-109 BOOSTER AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 1 (traced).dxf`).
 
 ## Full text
 

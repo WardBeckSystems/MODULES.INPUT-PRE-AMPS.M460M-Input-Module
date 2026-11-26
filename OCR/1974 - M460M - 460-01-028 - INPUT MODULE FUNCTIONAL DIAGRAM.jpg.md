@@ -24,7 +24,7 @@ Wiki page: [M460M](../../../../PAGES/M460M.md)
 - **Title block:** (343, 32)–(432, 48) mm: WBS WARD-BECk Systemb
 - **Wiring (first pass):** 190 connected wire groups from 567 runs, 2 dotted junctions; labelled ends: 111 mm → Eghtaa; 22 mm → cohtaol; 22 mm → cohtaol, Richt; 12 mm → conirol; 10 mm → Eghtaa
 
-Every curve, box, word and wire group: [1974 - M460M - 460-01-028 - INPUT MODULE FUNCTIONAL DIAGRAM (traced).json](../SCHEMATICS/1974%20-%20M460M%20-%20460-01-028%20-%20INPUT%20MODULE%20FUNCTIONAL%20DIAGRAM%20(traced).json) (the CAD file: `1974 - M460M - 460-01-028 - INPUT MODULE FUNCTIONAL DIAGRAM (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M460M - 460-01-028 - INPUT MODULE FUNCTIONAL DIAGRAM (traced).json](../SCHEMATICS/1974%20-%20M460M%20-%20460-01-028%20-%20INPUT%20MODULE%20FUNCTIONAL%20DIAGRAM%20%28traced%29.json) (the CAD file: `1974 - M460M - 460-01-028 - INPUT MODULE FUNCTIONAL DIAGRAM (traced).dxf`).
 
 ## Full text
 

@@ -21,7 +21,7 @@ Wiki page: [M460M](../../../../PAGES/M460M.md)
 - **Words (OCR):** 112 in 104 lines: 0E7 · E26 · ~CI33/10 +C2 47k · 33/ · E10 · ~c8Gep · R16 22k · 341k · R2_ · 22k · 6k2 · R4 Lk?
 - **Title block:** (127, 8)–(432, 138) mm: WBS · 8-109 · z2o/i2c16 + · Ilul 84 · Ecol93 · 4017 · 4928 · ~R36 4k7_ · ~R374k7 · IISSUE DATE · REVISION · APP · E6 · WBS WARD-BECK SYSTEMS · DRN: GEB · 8 ~ 109 · ENG.MRW · 4/78 · BOOSTER · AMPLIFIER
 
-Every curve, box, word and wire group: [1974 - M460M - 8-109-06-001 - BOOSTER AMPLIFIER (2) (traced).json](../SCHEMATICS/1974%20-%20M460M%20-%208-109-06-001%20-%20BOOSTER%20AMPLIFIER%20(2)%20(traced).json) (the CAD file: `1974 - M460M - 8-109-06-001 - BOOSTER AMPLIFIER (2) (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M460M - 8-109-06-001 - BOOSTER AMPLIFIER (2) (traced).json](../SCHEMATICS/1974%20-%20M460M%20-%208-109-06-001%20-%20BOOSTER%20AMPLIFIER%20%282%29%20%28traced%29.json) (the CAD file: `1974 - M460M - 8-109-06-001 - BOOSTER AMPLIFIER (2) (traced).dxf`).
 
 ## Full text
 

@@ -23,7 +23,7 @@ Wiki page: [M460M](../../../../PAGES/M460M.md)
 - **Title block:** (216, 49)–(342, 73) mm: WBS WAAD-BECK systemb
 - **Wiring (first pass):** 146 connected wire groups from 342 runs; labelled ends: 85 mm → DIRECT; 40 mm → FOLDBACK; 34 mm → LEFT, PAN; 32 mm → BOOSTER, AMPLIFIER; 30 mm → cONTROL
 
-Every curve, box, word and wire group: [1974 - M460M - 460-01-028 - OHMS PAN INSER LEFT OUTPUT PAN CONTROL RIGHT (traced).json](../SCHEMATICS/1974%20-%20M460M%20-%20460-01-028%20-%20OHMS%20PAN%20INSER%20LEFT%20OUTPUT%20PAN%20CONTROL%20RIGHT%20(traced).json) (the CAD file: `1974 - M460M - 460-01-028 - OHMS PAN INSER LEFT OUTPUT PAN CONTROL RIGHT (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M460M - 460-01-028 - OHMS PAN INSER LEFT OUTPUT PAN CONTROL RIGHT (traced).json](../SCHEMATICS/1974%20-%20M460M%20-%20460-01-028%20-%20OHMS%20PAN%20INSER%20LEFT%20OUTPUT%20PAN%20CONTROL%20RIGHT%20%28traced%29.json) (the CAD file: `1974 - M460M - 460-01-028 - OHMS PAN INSER LEFT OUTPUT PAN CONTROL RIGHT (traced).dxf`).
 
 ## Full text
 

@@ -23,7 +23,7 @@ Wiki page: [M460M](../../../../PAGES/M460M.md)
 - **Title block:** (205, 45)–(332, 70) mm: WBS · WARD-BECK BYBTEMB
 - **Wiring (first pass):** 134 connected wire groups from 578 runs; labelled ends: 374 mm → R65, Kisk; 198 mm → 3E 1; 186 mm → R5 =; 173 mm → CTL, com, P2, 18; 149 mm → 3E4
 
-Every curve, box, word and wire group: [1974 - M460M - 460-02-028 - IER INSERT OUTPUT ABM REF (traced).json](../SCHEMATICS/1974%20-%20M460M%20-%20460-02-028%20-%20IER%20INSERT%20OUTPUT%20ABM%20REF%20(traced).json) (the CAD file: `1974 - M460M - 460-02-028 - IER INSERT OUTPUT ABM REF (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M460M - 460-02-028 - IER INSERT OUTPUT ABM REF (traced).json](../SCHEMATICS/1974%20-%20M460M%20-%20460-02-028%20-%20IER%20INSERT%20OUTPUT%20ABM%20REF%20%28traced%29.json) (the CAD file: `1974 - M460M - 460-02-028 - IER INSERT OUTPUT ABM REF (traced).dxf`).
 
 ## Full text
 

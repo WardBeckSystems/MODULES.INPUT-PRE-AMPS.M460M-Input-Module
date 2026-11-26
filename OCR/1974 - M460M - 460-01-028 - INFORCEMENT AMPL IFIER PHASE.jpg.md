@@ -22,7 +22,7 @@ Wiki page: [M460M](../../../../PAGES/M460M.md)
 - **Words (OCR):** 40 in 36 lines: SOUND RE INFORCEMENT · AMPLFIER · PHASE · SOUND · RE INFORCEMENT · PRE. AMPLIFIER · dBm , · 150 OhMS · INE · SENSTTiViTY · INSERT · 14/+16 dam
 - **Wiring (first pass):** 121 connected wire groups from 238 runs; labelled ends: 96 mm → SOUND, RE INFORCEMENT, AMPLFIER, INSERT; 69 mm → INSERT, output, AMPL IF IER, 8- 1094; 37 mm → RE INFORCEMENT; 32 mm → Jok; 21 mm → LINE
 
-Every curve, box, word and wire group: [1974 - M460M - 460-01-028 - INFORCEMENT AMPL IFIER PHASE (traced).json](../SCHEMATICS/1974%20-%20M460M%20-%20460-01-028%20-%20INFORCEMENT%20AMPL%20IFIER%20PHASE%20(traced).json) (the CAD file: `1974 - M460M - 460-01-028 - INFORCEMENT AMPL IFIER PHASE (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M460M - 460-01-028 - INFORCEMENT AMPL IFIER PHASE (traced).json](../SCHEMATICS/1974%20-%20M460M%20-%20460-01-028%20-%20INFORCEMENT%20AMPL%20IFIER%20PHASE%20%28traced%29.json) (the CAD file: `1974 - M460M - 460-01-028 - INFORCEMENT AMPL IFIER PHASE (traced).dxf`).
 
 ## Full text
 

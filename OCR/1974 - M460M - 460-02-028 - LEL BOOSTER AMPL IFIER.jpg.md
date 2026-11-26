@@ -23,7 +23,7 @@ Wiki page: [M460M](../../../../PAGES/M460M.md)
 - **Words (OCR):** 71 in 70 lines: LE3 · FADER · Ch ON · SwZ · INSERT · 5w21 · CONTROL · PHASE · LE2 · 8-109 · 4E4 · BOOSTER
 - **Wiring (first pass):** 82 connected wire groups from 535 runs, 2 dotted junctions; labelled ends: 1055 mm → R77, 5.6, PRE, PosLo; 491 mm → PosLO; 293 mm → R77, 5.6, RBO, RBA; 239 mm → Rb}, 390, R77, 5.6; 226 mm → 4E4
 
-Every curve, box, word and wire group: [1974 - M460M - 460-02-028 - LEL BOOSTER AMPL IFIER (traced).json](../SCHEMATICS/1974%20-%20M460M%20-%20460-02-028%20-%20LEL%20BOOSTER%20AMPL%20IFIER%20(traced).json) (the CAD file: `1974 - M460M - 460-02-028 - LEL BOOSTER AMPL IFIER (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M460M - 460-02-028 - LEL BOOSTER AMPL IFIER (traced).json](../SCHEMATICS/1974%20-%20M460M%20-%20460-02-028%20-%20LEL%20BOOSTER%20AMPL%20IFIER%20%28traced%29.json) (the CAD file: `1974 - M460M - 460-02-028 - LEL BOOSTER AMPL IFIER (traced).dxf`).
 
 ## Full text
 

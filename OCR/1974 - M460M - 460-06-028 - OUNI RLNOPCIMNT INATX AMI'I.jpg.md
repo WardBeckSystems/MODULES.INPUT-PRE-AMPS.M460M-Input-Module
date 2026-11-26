@@ -21,7 +21,7 @@ Wiki page: [M460M](../../../../PAGES/M460M.md)
 - **Dots (junctions):** 4
 - **Words (OCR):** 3 in 2 lines: FR · R6 % 2 ? ? 2
 
-Every curve, box, word and wire group: [1974 - M460M - 460-06-028 - OUNI RLNOPCIMNT INATX AMI'I (traced).json](../SCHEMATICS/1974%20-%20M460M%20-%20460-06-028%20-%20OUNI%20RLNOPCIMNT%20INATX%20AMI%27I%20(traced).json) (the CAD file: `1974 - M460M - 460-06-028 - OUNI RLNOPCIMNT INATX AMI'I (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M460M - 460-06-028 - OUNI RLNOPCIMNT INATX AMI'I (traced).json](../SCHEMATICS/1974%20-%20M460M%20-%20460-06-028%20-%20OUNI%20RLNOPCIMNT%20INATX%20AMI%27I%20%28traced%29.json) (the CAD file: `1974 - M460M - 460-06-028 - OUNI RLNOPCIMNT INATX AMI'I (traced).dxf`).
 
 ## Full text
 

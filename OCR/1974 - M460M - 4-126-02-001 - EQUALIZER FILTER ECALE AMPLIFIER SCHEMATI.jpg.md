@@ -23,7 +23,7 @@ Wiki page: [M460M](../../../../PAGES/M460M.md)
 - **Title block:** (342, 5)–(408, 33) mm: WVBS WAAD-Beck byatemb LTD · CE · 4-126 · SCALL · cKD_ · AMPLIFIER SCHEMATIC · TOLS · 4-126 · 02-001
 - **Wiring (first pass):** 93 connected wire groups from 713 runs; labelled ends: 187 mm → 6k2, 23; 185 mm → 433, 845_JED, +21v; 167 mm → 26k, 222, 223; 140 mm → 713; 134 mm → R39, 620, 22 *, 26
 
-Every curve, box, word and wire group: [1974 - M460M - 4-126-02-001 - EQUALIZER FILTER ECALE AMPLIFIER SCHEMATI (traced).json](../SCHEMATICS/1974%20-%20M460M%20-%204-126-02-001%20-%20EQUALIZER%20FILTER%20ECALE%20AMPLIFIER%20SCHEMATI%20(traced).json) (the CAD file: `1974 - M460M - 4-126-02-001 - EQUALIZER FILTER ECALE AMPLIFIER SCHEMATI (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M460M - 4-126-02-001 - EQUALIZER FILTER ECALE AMPLIFIER SCHEMATI (traced).json](../SCHEMATICS/1974%20-%20M460M%20-%204-126-02-001%20-%20EQUALIZER%20FILTER%20ECALE%20AMPLIFIER%20SCHEMATI%20%28traced%29.json) (the CAD file: `1974 - M460M - 4-126-02-001 - EQUALIZER FILTER ECALE AMPLIFIER SCHEMATI (traced).dxf`).
 
 ## Full text
 

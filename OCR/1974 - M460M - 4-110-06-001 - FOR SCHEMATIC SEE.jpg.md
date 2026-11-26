@@ -21,7 +21,7 @@ Wiki page: [M460M](../../../../PAGES/M460M.md)
 - **Words (OCR):** 39 in 32 lines: 3s/0 · 28 · 38 · 332K · 249 · 88 · 9k · 41 · 47oK · 33/16 · 2 & & 8 · Ioles
 - **Title block:** (169, 16)–(336, 69) mm: ISSODIcKD · USED · ON · MATL _ · WBS · DA · EIc · DRM: · FINISH · DATEJOJUNZ4 · cKD · B699 ML · ScALE · TOLS _
 
-Every curve, box, word and wire group: [1974 - M460M - 4-110-06-001 - FOR SCHEMATIC SEE (traced).json](../SCHEMATICS/1974%20-%20M460M%20-%204-110-06-001%20-%20FOR%20SCHEMATIC%20SEE%20(traced).json) (the CAD file: `1974 - M460M - 4-110-06-001 - FOR SCHEMATIC SEE (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M460M - 4-110-06-001 - FOR SCHEMATIC SEE (traced).json](../SCHEMATICS/1974%20-%20M460M%20-%204-110-06-001%20-%20FOR%20SCHEMATIC%20SEE%20%28traced%29.json) (the CAD file: `1974 - M460M - 4-110-06-001 - FOR SCHEMATIC SEE (traced).dxf`).
 
 ## Full text
 

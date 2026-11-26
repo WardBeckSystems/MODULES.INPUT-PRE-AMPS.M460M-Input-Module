@@ -21,7 +21,7 @@ Wiki page: [M460M](../../../../PAGES/M460M.md)
 - **Words (OCR):** 11 in 10 lines: 2251 · 250| · RS &PA · 34-V2 · WBS WAAD-BeCK ByBTeMB · M46om · INPUT MODULE · FRONT PANEL · 460-04-028 · ISS.1
 - **Title block:** (209, 50)–(336, 74) mm: WBS WAAD-BeCK ByBTeMB
 
-Every curve, box, word and wire group: [1974 - M460M - 460-04-028 - INPUT MODULE FRONT PANEL (traced).json](../MECHANICAL/1974%20-%20M460M%20-%20460-04-028%20-%20INPUT%20MODULE%20FRONT%20PANEL%20(traced).json) (the CAD file: `1974 - M460M - 460-04-028 - INPUT MODULE FRONT PANEL (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M460M - 460-04-028 - INPUT MODULE FRONT PANEL (traced).json](../MECHANICAL/1974%20-%20M460M%20-%20460-04-028%20-%20INPUT%20MODULE%20FRONT%20PANEL%20%28traced%29.json) (the CAD file: `1974 - M460M - 460-04-028 - INPUT MODULE FRONT PANEL (traced).dxf`).
 
 ## Full text
 

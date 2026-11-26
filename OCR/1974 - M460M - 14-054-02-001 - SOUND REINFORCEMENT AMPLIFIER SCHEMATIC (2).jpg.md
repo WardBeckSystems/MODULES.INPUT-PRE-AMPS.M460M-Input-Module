@@ -23,7 +23,7 @@ Wiki page: [M460M](../../../../PAGES/M460M.md)
 - **Title block:** (319, 30)–(426, 50) mm: WBS · WARD-BECk BYBTEMB
 - **Wiring (first pass):** 28 connected wire groups from 202 runs; labelled ends: 98 mm → 75k, 22/25, com; 84 mm → NE5538, 10/25; 78 mm → 10/25; 74 mm → 5,6; 67 mm → 22/25
 
-Every curve, box, word and wire group: [1974 - M460M - 14-054-02-001 - SOUND REINFORCEMENT AMPLIFIER SCHEMATIC (2) (traced).json](../SCHEMATICS/1974%20-%20M460M%20-%2014-054-02-001%20-%20SOUND%20REINFORCEMENT%20AMPLIFIER%20SCHEMATIC%20(2)%20(traced).json) (the CAD file: `1974 - M460M - 14-054-02-001 - SOUND REINFORCEMENT AMPLIFIER SCHEMATIC (2) (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M460M - 14-054-02-001 - SOUND REINFORCEMENT AMPLIFIER SCHEMATIC (2) (traced).json](../SCHEMATICS/1974%20-%20M460M%20-%2014-054-02-001%20-%20SOUND%20REINFORCEMENT%20AMPLIFIER%20SCHEMATIC%20%282%29%20%28traced%29.json) (the CAD file: `1974 - M460M - 14-054-02-001 - SOUND REINFORCEMENT AMPLIFIER SCHEMATIC (2) (traced).dxf`).
 
 ## Full text
 

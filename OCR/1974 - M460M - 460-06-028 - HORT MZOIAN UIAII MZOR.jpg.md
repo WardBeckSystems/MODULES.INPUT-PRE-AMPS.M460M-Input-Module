@@ -22,7 +22,7 @@ Wiki page: [M460M](../../../../PAGES/M460M.md)
 - **Words (OCR):** 13 in 12 lines: Side · 620 · 10-011 · AL4 620 · WBS WARD-BECK SYBTEMs · Mabom · INPUT · MODULE · COMPONENT · LAYOUT · 460-06-028 · ISS.1
 - **Title block:** (213, 46)–(340, 71) mm: WBS WARD-BECK SYBTEMs
 
-Every curve, box, word and wire group: [1974 - M460M - 460-06-028 - HORT MZOIAN UIAII MZOR (traced).json](../SCHEMATICS/1974%20-%20M460M%20-%20460-06-028%20-%20HORT%20MZOIAN%20UIAII%20MZOR%20(traced).json) (the CAD file: `1974 - M460M - 460-06-028 - HORT MZOIAN UIAII MZOR (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M460M - 460-06-028 - HORT MZOIAN UIAII MZOR (traced).json](../SCHEMATICS/1974%20-%20M460M%20-%20460-06-028%20-%20HORT%20MZOIAN%20UIAII%20MZOR%20%28traced%29.json) (the CAD file: `1974 - M460M - 460-06-028 - HORT MZOIAN UIAII MZOR (traced).dxf`).
 
 ## Full text
 

@@ -23,7 +23,7 @@ Wiki page: [M460M](../../../../PAGES/M460M.md)
 - **Title block:** (142, 12)–(386, 64) mm: ISS MOD [CKD_ · USEDON · MATL · WBS WARD-BECK · 4-Iio · DRN · Ro · osla · DATE 8MARZ4 · 4-110 · FINISH · PRE-AMP/HP FILTER · CKD · 3uv_ · Rc · [SCALE · SCHEMATIC · Zb5911PKM · ToLs · 4-110-02-001
 - **Wiring (first pass):** 60 connected wire groups from 372 runs; labelled ends: 532 mm → E4, +21v, R5, 18; 365 mm → C12, 33/10, Q4, 2N4403; 255 mm → R12, 1k5, 150, E9; 174 mm → 47pF, 2N5209, R6, 20k; 172 mm → 1k5, LAST, COMPONENT, C7
 
-Every curve, box, word and wire group: [1974 - M460M - 4-110-02-001 - PRE-AMPIHP FILTER (traced).json](../SCHEMATICS/1974%20-%20M460M%20-%204-110-02-001%20-%20PRE-AMPIHP%20FILTER%20(traced).json) (the CAD file: `1974 - M460M - 4-110-02-001 - PRE-AMPIHP FILTER (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M460M - 4-110-02-001 - PRE-AMPIHP FILTER (traced).json](../SCHEMATICS/1974%20-%20M460M%20-%204-110-02-001%20-%20PRE-AMPIHP%20FILTER%20%28traced%29.json) (the CAD file: `1974 - M460M - 4-110-02-001 - PRE-AMPIHP FILTER (traced).dxf`).
 
 ## Full text
 

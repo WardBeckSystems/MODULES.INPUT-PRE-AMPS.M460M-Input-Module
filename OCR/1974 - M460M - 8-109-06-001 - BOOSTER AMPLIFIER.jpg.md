@@ -22,7 +22,7 @@ Wiki page: [M460M](../../../../PAGES/M460M.md)
 - **Words (OCR):** 47 in 41 lines: E2 · FC2 · 23/ · R2-47k · RA · 6k2 · R6 · 6k2 · R7 · I8 · z2 · LF356
 - **Title block:** (114, 10)–(332, 112) mm: 20/3/81 · 4028 · ML · ISSUE |DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN: GEB · 8 ~ 109 · ENG.MRW 4/78 · BOOSTER AMPLIFIER · COMPONENT LAYOUT · APP · SCALE · ISSUE · 8-109-06-001
 
-Every curve, box, word and wire group: [1974 - M460M - 8-109-06-001 - BOOSTER AMPLIFIER (traced).json](../SCHEMATICS/1974%20-%20M460M%20-%208-109-06-001%20-%20BOOSTER%20AMPLIFIER%20(traced).json) (the CAD file: `1974 - M460M - 8-109-06-001 - BOOSTER AMPLIFIER (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M460M - 8-109-06-001 - BOOSTER AMPLIFIER (traced).json](../SCHEMATICS/1974%20-%20M460M%20-%208-109-06-001%20-%20BOOSTER%20AMPLIFIER%20%28traced%29.json) (the CAD file: `1974 - M460M - 8-109-06-001 - BOOSTER AMPLIFIER (traced).dxf`).
 
 ## Full text
 

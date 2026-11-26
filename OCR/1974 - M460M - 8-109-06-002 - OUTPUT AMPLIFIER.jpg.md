@@ -21,7 +21,7 @@ Wiki page: [M460M](../../../../PAGES/M460M.md)
 - **Words (OCR):** 43 in 38 lines: 23/6 · R2-4Zk · ~R6 JBk · R7410 · z2 · LF356 · ~C1o47p · -Cii7p · ~RIl JGk · ~Rir 2k · ~Ri3 390 · ~C3-
 - **Title block:** (117, 8)–(335, 110) mm: 4008 · M L · ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN: GEB · 8 ~ 109A · ENG.MRW · 4/78 · OlTPUT · AMPLIFIER · CKD Rr · COMPONENT LAYOUT · APP · SCALE · ISSUE · 8-109-06-002
 
-Every curve, box, word and wire group: [1974 - M460M - 8-109-06-002 - OUTPUT AMPLIFIER (traced).json](../SCHEMATICS/1974%20-%20M460M%20-%208-109-06-002%20-%20OUTPUT%20AMPLIFIER%20(traced).json) (the CAD file: `1974 - M460M - 8-109-06-002 - OUTPUT AMPLIFIER (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M460M - 8-109-06-002 - OUTPUT AMPLIFIER (traced).json](../SCHEMATICS/1974%20-%20M460M%20-%208-109-06-002%20-%20OUTPUT%20AMPLIFIER%20%28traced%29.json) (the CAD file: `1974 - M460M - 8-109-06-002 - OUTPUT AMPLIFIER (traced).dxf`).
 
 ## Full text
 

@@ -22,7 +22,7 @@ Wiki page: [M460M](../../../../PAGES/M460M.md)
 - **Words (OCR):** 58 in 50 lines: Dipect Outplt · aBm, · 367 150 O-MS · Left Output · R81 · NQIESL · CAPAciTORS ARE · Resistops · AND · Right output · ALL · UNLESS Otherwise SpECIFIED.
 - **Wiring (first pass):** 102 connected wire groups from 477 runs; labelled ends: 110 mm → R81; 97 mm → Re6, Pan INSERT; 77 mm → RS 1/2; 60 mm → LEVEL; 60 mm → FB 1/2
 
-Every curve, box, word and wire group: [1974 - M460M - 460-02-028 - OHMS OUTPUT NOIESI ALL RESISTOPS (traced).json](../SCHEMATICS/1974%20-%20M460M%20-%20460-02-028%20-%20OHMS%20OUTPUT%20NOIESI%20ALL%20RESISTOPS%20(traced).json) (the CAD file: `1974 - M460M - 460-02-028 - OHMS OUTPUT NOIESI ALL RESISTOPS (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M460M - 460-02-028 - OHMS OUTPUT NOIESI ALL RESISTOPS (traced).json](../SCHEMATICS/1974%20-%20M460M%20-%20460-02-028%20-%20OHMS%20OUTPUT%20NOIESI%20ALL%20RESISTOPS%20%28traced%29.json) (the CAD file: `1974 - M460M - 460-02-028 - OHMS OUTPUT NOIESI ALL RESISTOPS (traced).dxf`).
 
 ## Full text
 

@@ -36,7 +36,7 @@ Hand-drawn high pass filter schematic for the 4-110 pre-amp/HP filter, cropped.
 - **Title block:** (114, 17)–(265, 87) mm: WBS WARD-BECK · DRN: · Ro · 4-110 · DATE 8 MAR74 · PRE-AMPIHP FILTER · CKD · SCALE · SCHEMATIC · TOLS _ · 4-110-02-001
 - **Wiring (first pass):** 40 connected wire groups from 369 runs; labelled ends: 444 mm → E4, +21v, R5, C9; 438 mm → *C1O, 33pF, Ris, 470k; 351 mm → E9, 0-21v, COMPONENT; 238 mm → COMPONENT, SED, On, 10; 237 mm → DRN:, DATE 8 MAR74, CKD
 
-Every curve, box, word and wire group: [1974 - 4-110-02-001 - 4-110 PRE-AMP HP FILTER SCHEMATIC - DRN DM (traced).json](../SCHEMATICS/1974%20-%204-110-02-001%20-%204-110%20PRE-AMP%20HP%20FILTER%20SCHEMATIC%20-%20DRN%20DM%20(traced).json) (the CAD file: `1974 - 4-110-02-001 - 4-110 PRE-AMP HP FILTER SCHEMATIC - DRN DM (traced).dxf`).
+Every curve, box, word and wire group: [1974 - 4-110-02-001 - 4-110 PRE-AMP HP FILTER SCHEMATIC - DRN DM (traced).json](../SCHEMATICS/1974%20-%204-110-02-001%20-%204-110%20PRE-AMP%20HP%20FILTER%20SCHEMATIC%20-%20DRN%20DM%20%28traced%29.json) (the CAD file: `1974 - 4-110-02-001 - 4-110 PRE-AMP HP FILTER SCHEMATIC - DRN DM (traced).dxf`).
 
 ## Full text
 

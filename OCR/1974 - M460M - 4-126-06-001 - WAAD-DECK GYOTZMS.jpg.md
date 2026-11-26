@@ -25,7 +25,7 @@ Wiki page: [M460M](../../../../PAGES/M460M.md)
 - **Words (OCR):** 79 in 69 lines: E5 · E2 · 6-8l6 · R2o | Ri?cig Zt8 · C6 · c2i R2i Rn Lmi4sb · 25 · R24 Ri8 · t0 R7 21 · R3 · C1b · R2
 - **Title block:** (298, 4)–(349, 49) mm: WBS · DRM · Dm · CKD.444 · SCALE · TOLS_
 
-Every curve, box, word and wire group: [1974 - M460M - 4-126-06-001 - WAAD-DECK GYOTZMS (traced).json](../SCHEMATICS/1974%20-%20M460M%20-%204-126-06-001%20-%20WAAD-DECK%20GYOTZMS%20(traced).json) (the CAD file: `1974 - M460M - 4-126-06-001 - WAAD-DECK GYOTZMS (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M460M - 4-126-06-001 - WAAD-DECK GYOTZMS (traced).json](../SCHEMATICS/1974%20-%20M460M%20-%204-126-06-001%20-%20WAAD-DECK%20GYOTZMS%20%28traced%29.json) (the CAD file: `1974 - M460M - 4-126-06-001 - WAAD-DECK GYOTZMS (traced).dxf`).
 
 ## Full text
 

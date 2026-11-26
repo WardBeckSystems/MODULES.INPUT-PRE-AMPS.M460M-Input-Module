@@ -23,7 +23,7 @@ Wiki page: [M460M](../../../../PAGES/M460M.md)
 - **Title block:** (114, 17)–(320, 87) mm: WBS WARD-BECK SYSTEMS LTD · DRN: · 4-110 · DATE 8 MAR74 · PRE-AMPIHP FILTER · CKD · SCALE · SCHEMATIC · TOLS _ · 4-110-02-001 · I5S,
 - **Wiring (first pass):** 36 connected wire groups from 279 runs; labelled ends: 443 mm → E4, +21v, R5, *C9; 425 mm → *C1O, 33pF, Ris, 470k; 351 mm → E9, 6-21v, COMPONENT; 301 mm → DEsICN-, RI6,Ci6,05,21, WBS, COMPONENT; 237 mm → DRN:, DATE 8 MAR74, CKD
 
-Every curve, box, word and wire group: [1974 - M460M - 4-110-02-001 - COMPONENT DESICN (traced).json](../SCHEMATICS/1974%20-%20M460M%20-%204-110-02-001%20-%20COMPONENT%20DESICN%20(traced).json) (the CAD file: `1974 - M460M - 4-110-02-001 - COMPONENT DESICN (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M460M - 4-110-02-001 - COMPONENT DESICN (traced).json](../SCHEMATICS/1974%20-%20M460M%20-%204-110-02-001%20-%20COMPONENT%20DESICN%20%28traced%29.json) (the CAD file: `1974 - M460M - 4-110-02-001 - COMPONENT DESICN (traced).dxf`).
 
 ## Full text
 
