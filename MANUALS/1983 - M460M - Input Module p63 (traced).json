@@ -1,0 +1,63 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M460M/MANUALS/1983 - M460M - Input Module.pdf",
+ "page": 63,
+ "version": 1,
+ "trace": "_traces/98911fdb9bcb0278-p63.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "63", "pages": "77"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 14.7, 334.6, 423.4],
+ "outlines": {
+  "line": {"rings": 237, "straight": {"n": 2421, "mm": 5358.1}, "curved": {"n": 477, "mm": 749.6}},
+  "text": {"rings": 226, "straight": {"n": 1830, "mm": 2002.4}, "curved": {"n": 468, "mm": 760.5}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 51,
+  "lines": [
+   {"mm": [93.7, 410.9, 148.8, 416.4], "text": "YSTEMS L.TD."},
+   {"mm": [133.0, 354.3, 216.5, 359.6], "text": "8-109 AMPLIFIER SERI ES"},
+   {"mm": [49.0, 326.9, 79.0, 332.2], "text": "All pll ts"},
+   {"mm": [95.9, 326.9, 101.5, 332.2], "text": "pe"},
+   {"mm": [118.1, 326.9, 152.0, 332.2], "text": "109 exc;ept"},
+   {"mm": [168.2, 326.9, 183.9, 332.2], "text": "not ed"},
+   {"mm": [197.8, 326.9, 206.6, 332.2], "text": "low"},
+   {"mm": [81.4, 313.5, 120.5, 318.8], "text": "OESCIP tON"},
+   {"mm": [49.4, 299.9, 56.3, 305.2], "text": "C6"},
+   {"mm": [106.4, 299.2, 113.1, 305.7], "text": "or"},
+   {"mm": [140.8, 299.5, 147.0, 304.7], "text": "pF"},
+   {"mm": [240.1, 300.5, 286.3, 306.3], "text": "2222_638 _09478"},
+   {"mm": [49.4, 292.5, 58.3, 300.5], "text": "en"},
+   {"mm": [81.6, 280.0, 122.0, 285.3], "text": "Re stor 1/4"},
+   {"mm": [143.1, 280.0, 153.3, 285.3], "text": "2K4"},
+   {"mm": [49.0, 140.3, 90.5, 145.6], "text": "WBS ec Oll'\\ll'le"},
+   {"mm": [125.9, 140.3, 237.5, 145.6], "text": "se of r-eplac.em ent parts made by"},
+   {"mm": [258.2, 140.3, 285.6, 145.6], "text": "specifi ed"},
+   {"mm": [49.0, 133.6, 176.2, 138.9], "text": "manuf e,ctul\"ers fo.. continued opt imum"},
+   {"mm": [198.6, 133.6, 256.5, 138.9], "text": "m<\"'n performllnce"},
+   {"mm": [279.6, 65.2, 300.5, 74.3], "text": "ps"},
+   {"mm": [267.9, 53.8, 290.0, 65.3], "text": "BS"},
+   {"mm": [245.5, 31.3, 264.0, 38.5], "text": "tp"},
+   {"mm": [238.4, 24.0, 259.3, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–335 mm across, 15–423 mm up",
+  "- **Outlines:** line 237 rings, 2,421 straight (5,358 mm) / 477 curved (750 mm); text 226 rings, 1,830 straight (2,002 mm) / 468 curved (760 mm)",
+  "- **Words (OCR):** 51 in 24 lines: YSTEMS L.TD. · 8-109 AMPLIFIER SERI ES · All pll ts · pe · 109 exc;ept · not ed · low · OESCIP tON · C6 · or · pF · 2222_638 _09478"
+ ]
+}

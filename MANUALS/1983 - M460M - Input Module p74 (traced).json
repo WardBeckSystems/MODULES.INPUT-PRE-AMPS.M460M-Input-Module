@@ -1,0 +1,71 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M460M/MANUALS/1983 - M460M - Input Module.pdf",
+ "page": 74,
+ "version": 1,
+ "trace": "_traces/98911fdb9bcb0278-p74.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "74", "pages": "77"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.5, 9.9, 309.6, 430.1],
+ "outlines": {
+  "line": {"rings": 230, "straight": {"n": 2573, "mm": 5910.3}, "curved": {"n": 512, "mm": 808.8}},
+  "text": {"rings": 116, "straight": {"n": 1005, "mm": 1212.4}, "curved": {"n": 265, "mm": 443.7}}
+ },
+ "circles": [
+  {"c": [210.5, 265.2], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [214.6, 250.4], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [129.4, 249.9], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [175.0, 361.8], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [151.3, 215.3, 185.0, 282.8], "w": 33.6, "h": 67.6, "from": "ring"},
+  {"mm": [153.9, 269.7, 167.1, 280.9], "w": 13.1, "h": 11.2, "from": "ring"},
+  {"mm": [153.9, 256.7, 167.1, 267.7], "w": 13.2, "h": 11.0, "from": "ring"},
+  {"mm": [168.8, 256.7, 182.4, 267.7], "w": 13.7, "h": 11.0, "from": "ring"},
+  {"mm": [153.9, 243.3, 167.1, 254.8], "w": 13.2, "h": 11.4, "from": "ring"},
+  {"mm": [168.8, 243.3, 182.7, 254.8], "w": 13.8, "h": 11.4, "from": "ring"},
+  {"mm": [153.9, 229.4, 167.3, 241.4], "w": 13.4, "h": 11.9, "from": "ring"},
+  {"mm": [169.0, 229.3, 182.8, 241.4], "w": 13.8, "h": 12.0, "from": "ring"},
+  {"mm": [153.9, 217.2, 167.3, 228.0], "w": 13.4, "h": 10.8, "from": "ring"},
+  {"mm": [169.0, 217.4, 182.7, 228.0], "w": 13.6, "h": 10.6, "from": "ring"}
+ ],
+ "text": {
+  "words": 32,
+  "lines": [
+   {"mm": [31.3, 415.2, 126.3, 420.7], "text": "WAFl ·BECK YBTE MS"},
+   {"mm": [140.8, 371.6, 205.3, 376.8], "text": "CONNECTOR LAYOUT"},
+   {"mm": [97.6, 358.2, 247.0, 363.5], "text": ",SA ..-oS4 SOUND REINFORCEMENT AIolPL IFIER"},
+   {"mm": [114.0, 193.0, 166.5, 198.3], "text": "NOT CONNECT ED"},
+   {"mm": [118.3, 85.7, 223.9, 91.0], "text": "TYPICAL MATING CONNECTOR Pl"},
+   {"mm": [79.5, 72.8, 90.7, 78.0], "text": "BER"},
+   {"mm": [216.8, 73.2, 285.0, 78.7], "text": "Min Lat'h Housing)"},
+   {"mm": [79.0, 66.5, 95.4, 71.8], "text": "BERG"},
+   {"mm": [216.8, 66.9, 223.9, 71.7], "text": "PV"},
+   {"mm": [229.5, 66.7, 263.6, 72.2], "text": "Te,...\" lna ls)"},
+   {"mm": [279.6, 65.2, 300.5, 74.3], "text": "ps"},
+   {"mm": [267.9, 53.8, 290.0, 65.3], "text": "BS"},
+   {"mm": [245.5, 31.3, 264.0, 38.5], "text": "tp"},
+   {"mm": [238.4, 24.0, 259.3, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–310 mm across, 10–430 mm up",
+  "- **Outlines:** line 230 rings, 2,573 straight (5,910 mm) / 512 curved (809 mm); text 116 rings, 1,005 straight (1,212 mm) / 265 curved (444 mm)",
+  "- **Circles and arcs:** 4 circles, 0 arcs; largest r 2.3 @ (210.5, 265.2), r 2.2 @ (214.6, 250.4), r 2.2 @ (129.4, 249.9), r 2.2 @ (175.0, 361.8)",
+  "- **Closed boxes:** 10",
+  "- **Words (OCR):** 32 in 14 lines: WAFl ·BECK YBTE MS · CONNECTOR LAYOUT · ,SA ..-oS4 SOUND REINFORCEMENT AIolPL IFIER · NOT CONNECT ED · TYPICAL MATING CONNECTOR Pl · BER · Min Lat'h Housing) · BERG · PV · Te,...\" lna ls) · ps · BS"
+ ]
+}

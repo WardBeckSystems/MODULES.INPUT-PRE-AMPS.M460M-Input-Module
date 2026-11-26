@@ -1,0 +1,73 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M460M/MANUALS/1983 - M460M - Input Module.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/98911fdb9bcb0278-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1583, 2000],
+  "mm": [341.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "77"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 341.8, 426.0],
+ "outlines": {
+  "line": {"rings": 46, "straight": {"n": 869, "mm": 3225.4}, "curved": {"n": 109, "mm": 166.9}},
+  "text": {"rings": 100, "straight": {"n": 1034, "mm": 1419.0}, "curved": {"n": 255, "mm": 410.9}},
+  "tb": {"rings": 58, "straight": {"n": 698, "mm": 892.3}, "curved": {"n": 152, "mm": 231.4}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 24,
+  "lines": [
+   {"mm": [41.5, 388.0, 283.3, 406.1], "text": "(VVElS] PROG~SS '1..111 TELEPHONE \"'6'''38'6=0"},
+   {"mm": [119.0, 399.4, 186.5, 407.1], "text": "WARD-BEC"},
+   {"mm": [208.3, 399.4, 284.6, 407.1], "text": "YSTEMS LTD"},
+   {"mm": [233.2, 393.6, 256.7, 398.1], "text": "ONT......:J"},
+   {"mm": [119.0, 388.2, 129.8, 392.3], "text": "TELE"},
+   {"mm": [139.5, 387.8, 171.4, 392.6], "text": "08 !)'~399"},
+   {"mm": [142.5, 226.5, 195.4, 239.2], "text": "M460M"},
+   {"mm": [137.7, 210.9, 199.5, 217.4], "text": "INPUT MODU LE"},
+   {"mm": [283.9, 66.3, 305.3, 75.6], "text": "ps"},
+   {"mm": [272.2, 54.6, 294.5, 66.4], "text": "BS"},
+   {"mm": [247.6, 37.1, 289.7, 43.6], "text": "ANUAL ISSUE"},
+   {"mm": [249.4, 31.7, 268.4, 38.9], "text": "tp"},
+   {"mm": [242.2, 24.4, 289.3, 31.6], "text": "ht 1983"},
+   {"mm": [252.2, 24.4, 271.4, 29.9], "text": "APRIL"}
+  ]
+ },
+ "title_block": {
+  "mm": [112.2, 28.9, 296.7, 415.6],
+  "from": "title-block words (training set)",
+  "text": [
+   "(VVElS] PROG~SS '1..111 TELEPHONE \"'6'''38'6=0",
+   "WARD-BEC",
+   "YSTEMS LTD",
+   "ONT......:J",
+   "TELE",
+   "08 !)'~399",
+   "M460M",
+   "INPUT MODU LE",
+   "ps",
+   "BS",
+   "ANUAL ISSUE",
+   "tp"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 342 × 432 mm, 1583 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–342 mm across, 0–426 mm up",
+  "- **Outlines:** line 46 rings, 869 straight (3,225 mm) / 109 curved (167 mm); text 100 rings, 1,034 straight (1,419 mm) / 255 curved (411 mm); tb 58 rings, 698 straight (892 mm) / 152 curved (231 mm)",
+  "- **Words (OCR):** 24 in 14 lines: (VVElS] PROG~SS '1..111 TELEPHONE \"'6'''38'6=0 · WARD-BEC · YSTEMS LTD · ONT......:J · TELE · 08 !)'~399 · M460M · INPUT MODU LE · ps · BS · ANUAL ISSUE · tp",
+  "- **Title block:** (112, 29)–(297, 416) mm: (VVElS] PROG~SS '1..111 TELEPHONE \"'6'''38'6=0 · WARD-BEC · YSTEMS LTD · ONT......:J · TELE · 08 !)'~399 · M460M · INPUT MODU LE · ps · BS · ANUAL ISSUE · tp"
+ ]
+}

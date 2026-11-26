@@ -1,0 +1,62 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M460M/MANUALS/1974 - M460M - Input Module.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/fc8bf3e1b17e7d89-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1583, 2000],
+  "mm": [341.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "77"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 341.8, 426.0],
+ "outlines": {
+  "line": {"rings": 40, "straight": {"n": 732, "mm": 2901.9}, "curved": {"n": 89, "mm": 128.9}},
+  "text": {"rings": 152, "straight": {"n": 1720, "mm": 2323.2}, "curved": {"n": 397, "mm": 632.3}},
+  "tb": {"rings": 11, "straight": {"n": 103, "mm": 312.0}, "curved": {"n": 15, "mm": 26.7}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 16,
+  "lines": [
+   {"mm": [119.0, 399.2, 285.9, 408.8], "text": "WARD-BECK SYSTEMS LTD"},
+   {"mm": [47.5, 389.7, 283.9, 404.3], "text": "WBS 841 PROGRESS AVENUE; SCARBOAOUGH ONTAAIO M1h 2*4"},
+   {"mm": [117.9, 388.4, 171.9, 393.7], "text": "TeleX 065-25399"},
+   {"mm": [206.8, 387.8, 283.5, 394.7], "text": "TELEPHONE 416/438-6550"},
+   {"mm": [141.4, 227.1, 197.5, 241.8], "text": "M46OM"},
+   {"mm": [136.0, 210.5, 201.2, 219.1], "text": "INPUT MODULE"},
+   {"mm": [241.6, 37.8, 290.4, 45.5], "text": "MANUAL ISSUE"},
+   {"mm": [250.9, 24.2, 290.2, 31.1], "text": "APRIL 1983"}
+  ]
+ },
+ "title_block": {
+  "mm": [40.6, 29.7, 297.1, 417.5],
+  "from": "title-block words (training set)",
+  "text": [
+   "WARD-BECK SYSTEMS LTD",
+   "WBS 841 PROGRESS AVENUE; SCARBOAOUGH ONTAAIO M1h 2*4",
+   "TeleX 065-25399",
+   "TELEPHONE 416/438-6550",
+   "M46OM",
+   "INPUT MODULE",
+   "MANUAL ISSUE"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 342 × 432 mm, 1583 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–342 mm across, 0–426 mm up",
+  "- **Outlines:** line 40 rings, 732 straight (2,902 mm) / 89 curved (129 mm); text 152 rings, 1,720 straight (2,323 mm) / 397 curved (632 mm); tb 11 rings, 103 straight (312 mm) / 15 curved (26.7 mm)",
+  "- **Words (OCR):** 16 in 8 lines: WARD-BECK SYSTEMS LTD · WBS 841 PROGRESS AVENUE; SCARBOAOUGH ONTAAIO M1h 2*4 · TeleX 065-25399 · TELEPHONE 416/438-6550 · M46OM · INPUT MODULE · MANUAL ISSUE · APRIL 1983",
+  "- **Title block:** (41, 30)–(297, 418) mm: WARD-BECK SYSTEMS LTD · WBS 841 PROGRESS AVENUE; SCARBOAOUGH ONTAAIO M1h 2*4 · TeleX 065-25399 · TELEPHONE 416/438-6550 · M46OM · INPUT MODULE · MANUAL ISSUE"
+ ]
+}

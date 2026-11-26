@@ -1,0 +1,94 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M460M/SCHEMATICS/1974 - M460M - 14-054-02-001 - SOUND REINFORCEMENT AMPLIFIER SCHEMATIC.jpg",
+ "version": 1,
+ "trace": "_traces/ff08c8acc95cd279.svg",
+ "sheet": {
+  "number": "14-054-02-001",
+  "title": "Sound Reinforcement Amplifier Schematic",
+  "dtype": "02",
+  "type": "schematic",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1557, 2000],
+  "mm": [336.2, 431.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 320.0, 431.8],
+ "outlines": {
+  "line": {"rings": 282, "straight": {"n": 3222, "mm": 2718.7}, "curved": {"n": 798, "mm": 812.2}},
+  "text": {"rings": 112, "straight": {"n": 1039, "mm": 1235.8}, "curved": {"n": 228, "mm": 384.3}},
+  "tb": {"rings": 2, "straight": {"n": 63, "mm": 143.6}, "curved": {"n": 5, "mm": 10.6}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 9642, "straight": {"n": 9872, "mm": 3802.5}, "curved": {"n": 51, "mm": 45.6}},
+   "text": {"paths": 1226, "straight": {"n": 1481, "mm": 942.5}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 1, "straight": {"n": 14, "mm": 75.7}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 31,
+  "orientation": {"horizontal": {"n": 3007, "mm": 1161.9}, "vertical": {"n": 2918, "mm": 954.8}, "diagonal": {"n": 5442, "mm": 2704.1}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [27.9, 280.5], "r": 1.7, "kind": "arc", "span": 166, "from": ["centre line"], "start": 263},
+  {"c": [7.1, 112.2], "r": 1.5, "kind": "arc", "span": 159, "from": ["centre line"], "start": 255},
+  {"c": [27.2, 241.6], "r": 1.1, "kind": "arc", "span": 191, "from": ["centre line"], "start": 79},
+  {"c": [91.5, 216.5], "r": 1.1, "kind": "arc", "span": 224, "from": ["centre line"], "start": 99},
+  {"c": [9.5, 247.3], "r": 1.1, "kind": "arc", "span": 141, "from": ["centre line"], "start": 327},
+  {"c": [9.9, 226.4], "r": 1.1, "kind": "arc", "span": 156, "from": ["centre line"], "start": 186},
+  {"c": [6.3, 116.6], "r": 1.0, "kind": "arc", "span": 167, "from": ["centre line"], "start": 205},
+  {"c": [7.7, 34.7], "r": 0.9, "kind": "arc", "span": 168, "from": ["centre line"], "start": 34},
+  {"c": [54.8, 212.2], "r": 0.8, "kind": "arc", "span": 219, "from": ["centre line"], "start": 100},
+  {"c": [52.8, 219.7], "r": 0.8, "kind": "arc", "span": 206, "from": ["centre line"], "start": 227},
+  {"c": [52.1, 307.0], "r": 0.8, "kind": "arc", "span": 168, "from": ["centre line"], "start": 129},
+  {"c": [31.8, 239.3], "r": 0.8, "kind": "arc", "span": 168, "from": ["centre line"], "start": 129},
+  {"c": [53.7, 298.9], "r": 0.7, "kind": "arc", "span": 241, "from": ["centre line"], "start": 116},
+  {"c": [30.5, 282.3], "r": 0.7, "kind": "arc", "span": 166, "from": ["centre line"], "start": 135},
+  {"c": [34.4, 238.3], "r": 0.7, "kind": "arc", "span": 190, "from": ["centre line"], "start": 326},
+  {"c": [6.0, 416.4], "r": 0.7, "kind": "arc", "span": 156, "from": ["centre line"], "start": 348}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 13,
+  "lines": [
+   {"mm": [0.9, 295.6, 9.5, 299.4], "text": "68/6"},
+   {"mm": [28.3, 276.1, 35.8, 280.0], "text": "22k"},
+   {"mm": [30.0, 233.0, 37.1, 237.3], "text": "22k"},
+   {"mm": [1.3, 208.1, 9.9, 212.0], "text": "68/6 _"},
+   {"mm": [206.2, 46.4, 231.4, 53.4], "text": "WBS"},
+   {"mm": [237.9, 47.1, 317.8, 53.5], "text": "WARD-BECK SyBTEMB"},
+   {"mm": [242.9, 30.7, 277.4, 37.6], "text": "SA14-054"},
+   {"mm": [197.5, 22.7, 320.6, 30.7], "text": "SOUND REINFORCEMENT AmpLifier"},
+   {"mm": [240.1, 15.1, 278.9, 22.1], "text": "SCHEMATIC"},
+   {"mm": [200.8, 3.0, 264.5, 11.4], "text": "B 14-054-02-001"},
+   {"mm": [300.5, 2.6, 318.9, 9.5], "text": "ISS.1"}
+  ]
+ },
+ "title_block": {"mm": [199.4, 37.8, 324.5, 62.1], "from": "title-block words (training set)", "text": ["WBS", "WARD-BECK SyBTEMB"]},
+ "dots": [],
+ "nets": {
+  "groups": 5,
+  "wire_runs": 144,
+  "dotted_junctions": 0,
+  "note": "first pass: horizontal / vertical centre-line runs of 0.8 mm or more, joined end to end; groups under 5 mm left out; components (diagonal or curved ink) separate groups; labels are OCR words within 5 mm of a free end; long straight lines along the frame left out",
+  "list": [
+   {"mm": 55.3, "runs": 4, "ends": 3, "bbox": [7.3, 286.3, 47.1, 303.1], "labels": ["68/6"]},
+   {"mm": 52.5, "runs": 3, "ends": 3, "bbox": [11.0, 215.7, 46.9, 232.5], "labels": ["22k", "68/6 _"]},
+   {"mm": 51.0, "runs": 6, "ends": 4, "bbox": [27.0, 242.7, 38.2, 276.1], "labels": ["22k"]},
+   {"mm": 27.9, "runs": 1, "ends": 2, "bbox": [58.5, 215.9, 86.4, 216.1], "labels": []},
+   {"mm": 27.4, "runs": 1, "ends": 2, "bbox": [57.4, 303.1, 84.8, 303.3], "labels": []}
+  ]
+ },
+ "summary": [
+  "- **Sheet:** schematic 14-054-02-001, size B (assumed) 336 × 432 mm, 1557 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–320 mm across, 0–432 mm up",
+  "- **Outlines:** line 282 rings, 3,222 straight (2,719 mm) / 798 curved (812 mm); text 112 rings, 1,039 straight (1,236 mm) / 228 curved (384 mm); tb 2 rings, 63 straight (144 mm) / 5 curved (10.6 mm)",
+  "- **Centre lines:** 10,869 paths (31 closed); straight 4,821 mm, curved 45.6 mm; horizontal 1,162 mm, vertical 955 mm, diagonal 2,704 mm",
+  "- **Circles and arcs:** 0 circles, 16 arcs",
+  "- **Words (OCR):** 13 in 11 lines: 68/6 · 22k · 22k · 68/6 _ · WBS · WARD-BECK SyBTEMB · SA14-054 · SOUND REINFORCEMENT AmpLifier · SCHEMATIC · B 14-054-02-001 · ISS.1",
+  "- **Title block:** (199, 38)–(324, 62) mm: WBS · WARD-BECK SyBTEMB",
+  "- **Wiring (first pass):** 5 connected wire groups from 144 runs; labelled ends: 55 mm → 68/6; 52 mm → 22k, 68/6 _; 51 mm → 22k"
+ ]
+}

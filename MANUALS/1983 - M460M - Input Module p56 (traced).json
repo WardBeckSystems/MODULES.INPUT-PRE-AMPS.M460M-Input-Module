@@ -1,0 +1,47 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M460M/MANUALS/1983 - M460M - Input Module.pdf",
+ "page": 56,
+ "version": 1,
+ "trace": "_traces/98911fdb9bcb0278-p56.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "56", "pages": "77"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 335.9, 422.5],
+ "outlines": {
+  "line": {"rings": 81, "straight": {"n": 1116, "mm": 3316.5}, "curved": {"n": 141, "mm": 204.4}},
+  "text": {"rings": 42, "straight": {"n": 313, "mm": 345.4}, "curved": {"n": 67, "mm": 99.9}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 11,
+  "lines": [
+   {"mm": [32.8, 410.0, 51.2, 415.5], "text": "WAR"},
+   {"mm": [74.3, 410.0, 85.5, 415.5], "text": "CK"},
+   {"mm": [132.3, 410.0, 139.7, 415.5], "text": "LT"},
+   {"mm": [133.0, 202.7, 215.0, 208.0], "text": "8-109 AMPL IFIER SERIES"},
+   {"mm": [279.6, 65.2, 300.5, 74.3], "text": "ps"},
+   {"mm": [267.9, 53.8, 290.0, 65.3], "text": "BS"},
+   {"mm": [245.5, 31.3, 264.0, 38.5], "text": "tp"},
+   {"mm": [238.4, 24.0, 259.3, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 0–422 mm up",
+  "- **Outlines:** line 81 rings, 1,116 straight (3,316 mm) / 141 curved (204 mm); text 42 rings, 313 straight (345 mm) / 67 curved (99.9 mm)",
+  "- **Words (OCR):** 11 in 8 lines: WAR · CK · LT · 8-109 AMPL IFIER SERIES · ps · BS · tp · ht"
+ ]
+}

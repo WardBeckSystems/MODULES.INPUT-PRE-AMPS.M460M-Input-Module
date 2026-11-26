@@ -1,0 +1,57 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M460M/MANUALS/1983 - M460M - Input Module.pdf",
+ "page": 19,
+ "version": 1,
+ "trace": "_traces/98911fdb9bcb0278-p19.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1583, 2000],
+  "mm": [341.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "19", "pages": "77"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.4, 0.0, 315.0, 423.2],
+ "outlines": {
+  "line": {"rings": 492, "straight": {"n": 4497, "mm": 7311.4}, "curved": {"n": 1209, "mm": 1813.9}},
+  "text": {"rings": 178, "straight": {"n": 1413, "mm": 1628.6}, "curved": {"n": 370, "mm": 586.6}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 20,
+  "lines": [
+   {"mm": [33.7, 410.9, 57.9, 417.3], "text": "WARC"},
+   {"mm": [62.0, 408.5, 131.1, 418.1], "text": "BeCK GYOTEMB"},
+   {"mm": [291.0, 410.9, 316.7, 417.3], "text": "GALW"},
+   {"mm": [159.1, 367.5, 194.5, 373.9], "text": "J4RT List"},
+   {"mm": [139.9, 354.5, 185.0, 359.3], "text": "Mekm NPI"},
+   {"mm": [188.3, 353.0, 214.0, 359.5], "text": "HOuule"},
+   {"mm": [75.6, 327.3, 120.7, 332.1], "text": "DErCAiPtor"},
+   {"mm": [254.1, 327.3, 300.7, 332.1], "text": "Pa umai"},
+   {"mm": [77.3, 306.4, 122.4, 312.8], "text": "coicnilomcter"},
+   {"mm": [258.9, 306.4, 279.8, 312.8], "text": "10-0o7"},
+   {"mm": [77.3, 287.1, 104.7, 291.9], "text": "Raicuor"},
+   {"mm": [186.5, 284.6, 214.6, 294.2], "text": "Philips"},
+   {"mm": [75.6, 110.1, 122.2, 114.9], "text": "PolenietnaEu"},
+   {"mm": [254.1, 110.1, 275.1, 114.9], "text": "Ic_ana"},
+   {"mm": [188.3, 95.6, 212.4, 102.1], "text": "Philae+"},
+   {"mm": [75.6, 95.6, 103.0, 100.4], "text": "Resso"},
+   {"mm": [279.8, 55.5, 312.8, 85.2], "text": "Sps"},
+   {"mm": [258.9, 35.4, 295.1, 73.3], "text": "JIWBS"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 342 × 432 mm, 1583 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–315 mm across, 0–423 mm up",
+  "- **Outlines:** line 492 rings, 4,497 straight (7,311 mm) / 1,209 curved (1,814 mm); text 178 rings, 1,413 straight (1,629 mm) / 370 curved (587 mm)",
+  "- **Words (OCR):** 20 in 18 lines: WARC · BeCK GYOTEMB · GALW · J4RT List · Mekm NPI · HOuule · DErCAiPtor · Pa umai · coicnilomcter · 10-0o7 · Raicuor · Philips"
+ ]
+}

@@ -1,0 +1,108 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M460M/SCHEMATICS/19xx - 14-054-02-001.jpg",
+ "version": 1,
+ "trace": "_traces/bbe73c0f30a64aa2.svg",
+ "sheet": {
+  "number": "B 14-054-02-001",
+  "title": "",
+  "dtype": "02",
+  "type": "schematic",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [900, 716],
+  "mm": [431.8, 343.5],
+  "mm_per_px": 0.47978
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.5, 0.0, 426.5, 343.5],
+ "outlines": {
+  "line": {"rings": 185, "straight": {"n": 1953, "mm": 5331.3}, "curved": {"n": 386, "mm": 952.8}},
+  "text": {"rings": 32, "straight": {"n": 141, "mm": 257.9}, "curved": {"n": 53, "mm": 142.9}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 2059, "straight": {"n": 2280, "mm": 3246.6}, "curved": {"n": 22, "mm": 59.7}},
+   "text": {"paths": 167, "straight": {"n": 209, "mm": 233.8}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 36,
+  "orientation": {"horizontal": {"n": 687, "mm": 1302.9}, "vertical": {"n": 610, "mm": 774.0}, "diagonal": {"n": 1192, "mm": 1403.5}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [96.8, 114.3], "r": 5.3, "kind": "arc", "span": 110, "from": ["centre line"], "start": 142},
+  {"c": [97.6, 63.2], "r": 5.0, "kind": "circle", "span": 359, "from": ["centre line"]},
+  {"c": [98.0, 113.3], "r": 4.4, "kind": "arc", "span": 137, "from": ["centre line"], "start": 40},
+  {"c": [167.4, 238.4], "r": 1.9, "kind": "arc", "span": 170, "from": ["centre line"], "start": 348},
+  {"c": [368.5, 40.0], "r": 1.5, "kind": "arc", "span": 156, "from": ["centre line"], "start": 168}
+ ],
+ "boxes": [
+  {"mm": [125.2, 265.7, 130.5, 268.3], "w": 5.3, "h": 2.6, "from": "ring"},
+  {"mm": [125.2, 252.4, 130.5, 254.8], "w": 5.3, "h": 2.4, "from": "ring"},
+  {"mm": [93.6, 245.6, 97.4, 248.0], "w": 3.8, "h": 2.4, "from": "ring"},
+  {"mm": [94.5, 239.9, 97.9, 242.3], "w": 3.4, "h": 2.4, "from": "ring"},
+  {"mm": [99.8, 96.4, 102.2, 98.8], "w": 2.4, "h": 2.4, "from": "ring"},
+  {"mm": [99.8, 80.1, 101.8, 82.5], "w": 2.0, "h": 2.4, "from": "ring"},
+  {"mm": [100.3, 77.1, 105.6, 79.6], "w": 5.3, "h": 2.5, "from": "ring"},
+  {"mm": [90.2, 76.8, 93.1, 79.2], "w": 2.9, "h": 2.4, "from": "ring"},
+  {"mm": [96.0, 53.3, 99.8, 55.7], "w": 3.8, "h": 2.4, "from": "ring"},
+  {"mm": [352.2, 19.7, 355.6, 23.5], "w": 3.5, "h": 3.8, "from": "ring"},
+  {"mm": [359.4, 19.7, 362.8, 23.5], "w": 3.5, "h": 3.8, "from": "ring"}
+ ],
+ "text": {
+  "words": 5,
+  "lines": [
+   {"mm": [328.6, 36.0, 348.8, 42.9], "text": "WBS"},
+   {"mm": [357.4, 24.5, 385.3, 30.3], "text": "5414-054"},
+   {"mm": [355.5, 12.0, 378.5, 17.9], "text": "SCHEMA"},
+   {"mm": [330.6, 2.4, 375.7, 9.3], "text": "14-054-02-001"},
+   {"mm": [403.5, 1.4, 416.9, 8.4], "text": "7188."}
+  ]
+ },
+ "dots": [],
+ "nets": {
+  "groups": 27,
+  "wire_runs": 261,
+  "dotted_junctions": 0,
+  "note": "first pass: horizontal / vertical centre-line runs of 0.8 mm or more, joined end to end; groups under 5 mm left out; components (diagonal or curved ink) separate groups; labels are OCR words within 5 mm of a free end; long straight lines along the frame left out",
+  "list": [
+   {"mm": 126.7, "runs": 5, "ends": 2, "bbox": [82.0, 175.6, 153.0, 223.1], "labels": []},
+   {"mm": 97.0, "runs": 10, "ends": 4, "bbox": [131.0, 224.5, 168.4, 270.6], "labels": []},
+   {"mm": 95.5, "runs": 12, "ends": 6, "bbox": [97.4, 74.8, 154.5, 101.7], "labels": []},
+   {"mm": 81.1, "runs": 6, "ends": 3, "bbox": [130.5, 169.8, 169.8, 200.5], "labels": []},
+   {"mm": 73.9, "runs": 4, "ends": 3, "bbox": [170.3, 227.4, 232.2, 242.3], "labels": []},
+   {"mm": 73.4, "runs": 8, "ends": 4, "bbox": [99.3, 233.7, 124.3, 270.6], "labels": []},
+   {"mm": 72.9, "runs": 9, "ends": 4, "bbox": [41.3, 80.1, 96.4, 94.5], "labels": []},
+   {"mm": 68.1, "runs": 4, "ends": 3, "bbox": [41.3, 104.1, 92.1, 117.5], "labels": []},
+   {"mm": 67.2, "runs": 5, "ends": 3, "bbox": [101.7, 60.0, 155.0, 72.9], "labels": []},
+   {"mm": 67.2, "runs": 5, "ends": 4, "bbox": [101.7, 103.6, 154.0, 118.0], "labels": []},
+   {"mm": 64.8, "runs": 7, "ends": 3, "bbox": [39.8, 219.3, 77.2, 245.6], "labels": []},
+   {"mm": 61.9, "runs": 4, "ends": 2, "bbox": [41.7, 57.6, 92.1, 71.5], "labels": []},
+   {"mm": 58.6, "runs": 4, "ends": 3, "bbox": [100.3, 175.6, 125.2, 200.5], "labels": []},
+   {"mm": 44.6, "runs": 3, "ends": 3, "bbox": [171.8, 172.2, 204.9, 185.2], "labels": []},
+   {"mm": 37.4, "runs": 8, "ends": 5, "bbox": [74.8, 96.4, 96.9, 111.3], "labels": []},
+   {"mm": 35.1, "runs": 6, "ends": 3, "bbox": [72.9, 68.6, 96.9, 78.7], "labels": []},
+   {"mm": 31.2, "runs": 3, "ends": 3, "bbox": [186.6, 194.3, 193.4, 220.7], "labels": []},
+   {"mm": 24.5, "runs": 1, "ends": 2, "bbox": [209.2, 172.2, 233.7, 172.7], "labels": []},
+   {"mm": 21.6, "runs": 1, "ends": 2, "bbox": [326.2, 36.9, 347.8, 37.4], "labels": ["WBS"]},
+   {"mm": 19.2, "runs": 1, "ends": 2, "bbox": [330.1, 43.7, 349.3, 44.1], "labels": ["WBS"]},
+   {"mm": 13.4, "runs": 2, "ends": 1, "bbox": [78.7, 244.2, 91.6, 245.6], "labels": []},
+   {"mm": 12.5, "runs": 4, "ends": 3, "bbox": [384.8, 20.6, 395.3, 23.0], "labels": ["5414-054", "SCHEMA"]},
+   {"mm": 10.6, "runs": 3, "ends": 2, "bbox": [121.9, 167.4, 122.3, 178.5], "labels": []},
+   {"mm": 6.7, "runs": 4, "ends": 1, "bbox": [131.5, 235.1, 138.2, 236.1], "labels": []},
+   {"mm": 6.2, "runs": 3, "ends": 3, "bbox": [113.2, 232.2, 117.1, 236.1], "labels": []},
+   {"mm": 5.8, "runs": 2, "ends": 2, "bbox": [116.6, 164.6, 120.9, 167.0], "labels": []},
+   {"mm": 5.3, "runs": 1, "ends": 2, "bbox": [409.3, 40.3, 414.5, 40.3], "labels": []}
+  ]
+ },
+ "summary": [
+  "- **Sheet:** schematic B 14-054-02-001, size B 432 × 344 mm, 900 × 716 px traced (0.480 mm/px)",
+  "- **Ink extent:** 0–426 mm across, 0–344 mm up",
+  "- **Outlines:** line 185 rings, 1,953 straight (5,331 mm) / 386 curved (953 mm); text 32 rings, 141 straight (258 mm) / 53 curved (143 mm)",
+  "- **Centre lines:** 2,226 paths (36 closed); straight 3,480 mm, curved 59.7 mm; horizontal 1,303 mm, vertical 774 mm, diagonal 1,404 mm",
+  "- **Circles and arcs:** 1 circles, 4 arcs; largest r 5.0 @ (97.6, 63.2)",
+  "- **Closed boxes:** 11",
+  "- **Words (OCR):** 5 in 5 lines: WBS · 5414-054 · SCHEMA · 14-054-02-001 · 7188.",
+  "- **Wiring (first pass):** 27 connected wire groups from 261 runs; labelled ends: 22 mm → WBS; 19 mm → WBS; 12 mm → 5414-054, SCHEMA"
+ ]
+}

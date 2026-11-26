@@ -1,0 +1,47 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M460M/MANUALS/1983 - M460M - Input Module.pdf",
+ "page": 37,
+ "version": 1,
+ "trace": "_traces/98911fdb9bcb0278-p37.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1583, 2000],
+  "mm": [341.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "37", "pages": "77"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 336.9, 423.2],
+ "outlines": {
+  "line": {"rings": 108, "straight": {"n": 1243, "mm": 3662.2}, "curved": {"n": 181, "mm": 266.2}},
+  "text": {"rings": 47, "straight": {"n": 362, "mm": 421.0}, "curved": {"n": 82, "mm": 124.6}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 12,
+  "lines": [
+   {"mm": [32.6, 411.3, 46.0, 416.8], "text": "WA"},
+   {"mm": [74.3, 411.3, 146.8, 416.8], "text": "CK YST eM L.TO"},
+   {"mm": [155.0, 232.3, 191.9, 237.8], "text": "SECTION II"},
+   {"mm": [149.0, 218.5, 203.2, 224.0], "text": "SUB-ASSEMBLIES"},
+   {"mm": [283.9, 66.3, 305.3, 75.6], "text": "ps"},
+   {"mm": [272.2, 54.6, 294.5, 66.4], "text": "BS"},
+   {"mm": [249.4, 31.7, 268.4, 38.9], "text": "tp"},
+   {"mm": [242.2, 24.4, 263.6, 31.6], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 342 × 432 mm, 1583 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–337 mm across, 0–423 mm up",
+  "- **Outlines:** line 108 rings, 1,243 straight (3,662 mm) / 181 curved (266 mm); text 47 rings, 362 straight (421 mm) / 82 curved (125 mm)",
+  "- **Words (OCR):** 12 in 8 lines: WA · CK YST eM L.TO · SECTION II · SUB-ASSEMBLIES · ps · BS · tp · ht"
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M460M/MANUALS/1974 - M460M - Input Module.pdf",
+ "page": 56,
+ "version": 1,
+ "trace": "_traces/fc8bf3e1b17e7d89-p56.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "56", "pages": "77"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 335.9, 422.5],
+ "outlines": {
+  "line": {"rings": 54, "straight": {"n": 855, "mm": 3010.1}, "curved": {"n": 86, "mm": 120.3}},
+  "text": {"rings": 59, "straight": {"n": 505, "mm": 614.8}, "curved": {"n": 115, "mm": 176.0}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 5,
+  "lines": [
+   {"mm": [30.4, 408.9, 148.5, 417.1], "text": "WARD-BECK SYSTEMS LTD;"},
+   {"mm": [131.7, 202.5, 216.3, 209.5], "text": "8-109 AMPLIF IER SERIES"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 0–422 mm up",
+  "- **Outlines:** line 54 rings, 855 straight (3,010 mm) / 86 curved (120 mm); text 59 rings, 505 straight (615 mm) / 115 curved (176 mm)",
+  "- **Words (OCR):** 5 in 2 lines: WARD-BECK SYSTEMS LTD; · 8-109 AMPLIF IER SERIES"
+ ]
+}

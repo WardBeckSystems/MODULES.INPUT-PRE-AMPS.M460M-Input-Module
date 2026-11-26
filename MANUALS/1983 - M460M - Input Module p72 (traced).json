@@ -1,0 +1,47 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M460M/MANUALS/1983 - M460M - Input Module.pdf",
+ "page": 72,
+ "version": 1,
+ "trace": "_traces/98911fdb9bcb0278-p72.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "72", "pages": "77"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 336.5, 423.4],
+ "outlines": {
+  "line": {"rings": 113, "straight": {"n": 1404, "mm": 3609.8}, "curved": {"n": 265, "mm": 397.4}},
+  "text": {"rings": 4, "straight": {"n": 12, "mm": 9.3}, "curved": {"n": 6, "mm": 8.4}}
+ },
+ "circles": [{"c": [172.2, 219.1], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [],
+ "text": {
+  "words": 9,
+  "lines": [
+   {"mm": [27.6, 411.7, 79.7, 417.2], "text": "WAR O-S CK"},
+   {"mm": [83.3, 411.7, 92.2, 417.7], "text": "By"},
+   {"mm": [126.1, 411.7, 140.6, 417.2], "text": "LTO"},
+   {"mm": [279.6, 65.2, 300.5, 74.3], "text": "ps"},
+   {"mm": [267.9, 53.8, 290.0, 65.3], "text": "BS"},
+   {"mm": [245.5, 31.3, 264.0, 38.5], "text": "tp"},
+   {"mm": [238.4, 24.0, 259.3, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 0–423 mm up",
+  "- **Outlines:** line 113 rings, 1,404 straight (3,610 mm) / 265 curved (397 mm); text 4 rings, 12 straight (9.3 mm) / 6 curved (8.4 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.3 @ (172.2, 219.1)",
+  "- **Words (OCR):** 9 in 7 lines: WAR O-S CK · By · LTO · ps · BS · tp · ht"
+ ]
+}

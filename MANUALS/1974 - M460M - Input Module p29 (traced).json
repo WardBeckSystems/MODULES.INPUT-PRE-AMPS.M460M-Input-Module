@@ -1,0 +1,80 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M460M/MANUALS/1974 - M460M - Input Module.pdf",
+ "page": 29,
+ "version": 1,
+ "trace": "_traces/fc8bf3e1b17e7d89-p29.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1583, 2000],
+  "mm": [341.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "29", "pages": "77"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [3.0, 1.9, 341.9, 415.6],
+ "outlines": {
+  "line": {"rings": 314, "straight": {"n": 2523, "mm": 4585.4}, "curved": {"n": 483, "mm": 656.8}},
+  "text": {"rings": 198, "straight": {"n": 1398, "mm": 1248.5}, "curved": {"n": 475, "mm": 607.7}}
+ },
+ "circles": [
+  {"c": [220.1, 288.7], "r": 3.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [101.3, 249.5], "r": 1.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [219.4, 329.9, 221.5, 332.3], "w": 2.1, "h": 2.4, "from": "ring"},
+  {"mm": [195.4, 298.8, 210.9, 313.5], "w": 15.5, "h": 14.7, "from": "ring", "words": ["4-126"]}
+ ],
+ "text": {
+  "words": 42,
+  "lines": [
+   {"mm": [183.7, 351.7, 223.0, 355.5], "text": "SOUND REINFORCEMENT"},
+   {"mm": [193.9, 348.5, 212.7, 352.3], "text": "AMPL IFIER"},
+   {"mm": [234.5, 345.2, 245.3, 349.1], "text": "PHASE"},
+   {"mm": [288.9, 340.9, 300.3, 344.7], "text": "SOUND"},
+   {"mm": [280.5, 337.9, 307.9, 341.7], "text": "RE INF ORCEMENT"},
+   {"mm": [158.9, 334.4, 185.9, 338.3], "text": "PRE: AMPL FIER"},
+   {"mm": [285.2, 334.4, 310.5, 337.8], "text": "dBm 150 OhMS"},
+   {"mm": [32.2, 324.1, 38.6, 327.9], "text": "INE"},
+   {"mm": [98.0, 325.8, 104.5, 329.2], "text": "INE"},
+   {"mm": [163.2, 325.8, 185.2, 329.6], "text": "SEnsiTivity"},
+   {"mm": [213.3, 325.8, 225.2, 329.6], "text": "IMSERT"},
+   {"mm": [28.3, 320.8, 47.7, 324.7], "text": "14/+16 dBm"},
+   {"mm": [25.0, 317.6, 48.8, 321.4], "text": "REF 150 OhMS"},
+   {"mm": [55.9, 315.4, 61.7, 319.3], "text": "Jok"},
+   {"mm": [247.4, 314.4, 266.2, 318.2], "text": "AMPL IFIER"},
+   {"mm": [321.3, 315.4, 331.4, 319.3], "text": "PHASE"},
+   {"mm": [168.0, 304.6, 177.0, 308.0], "text": "L1io"},
+   {"mm": [199.3, 304.2, 209.0, 308.0], "text": "4-126"},
+   {"mm": [283.0, 304.6, 306.1, 308.5], "text": "INSERT JACKS"},
+   {"mm": [290.6, 301.0, 313.1, 304.8], "text": "REF 150 OHMS"},
+   {"mm": [280.2, 301.0, 287.8, 304.3], "text": "JBm_"},
+   {"mm": [194.5, 293.4, 213.3, 297.7], "text": "EQLALIZER"},
+   {"mm": [32.6, 289.5, 39.5, 293.4], "text": "Mic"},
+   {"mm": [193.4, 287.4, 212.9, 291.7], "text": "AMPLIFIER"},
+   {"mm": [199.9, 290.6, 210.7, 294.0], "text": "ILTER"},
+   {"mm": [30.4, 286.3, 49.9, 290.1], "text": "70/-20aBm"},
+   {"mm": [31.1, 283.0, 47.1, 286.9], "text": "150 OhMS"},
+   {"mm": [55.3, 276.6, 64.3, 280.4], "text": "OHMS"},
+   {"mm": [179.8, 268.6, 193.4, 272.4], "text": "FILTER"},
+   {"mm": [42.3, 254.5, 51.4, 258.4], "text": "Line"},
+   {"mm": [21.8, 247.0, 31.1, 250.8], "text": "Mute"},
+   {"mm": [18.1, 243.8, 35.4, 247.6], "text": "cONTROLS"},
+   {"mm": [44.5, 234.0, 51.4, 237.9], "text": "Mic"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 342 × 432 mm, 1583 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 3–342 mm across, 2–416 mm up",
+  "- **Outlines:** line 314 rings, 2,523 straight (4,585 mm) / 483 curved (657 mm); text 198 rings, 1,398 straight (1,248 mm) / 475 curved (608 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 3.1 @ (220.1, 288.7), r 1.3 @ (101.3, 249.5)",
+  "- **Closed boxes:** 2; named: 4-126",
+  "- **Words (OCR):** 42 in 33 lines: SOUND REINFORCEMENT · AMPL IFIER · PHASE · SOUND · RE INF ORCEMENT · PRE: AMPL FIER · dBm 150 OhMS · INE · INE · SEnsiTivity · IMSERT · 14/+16 dBm"
+ ]
+}

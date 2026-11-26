@@ -1,0 +1,46 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M460M/MANUALS/1983 - M460M - Input Module.pdf",
+ "page": 47,
+ "version": 1,
+ "trace": "_traces/98911fdb9bcb0278-p47.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "47", "pages": "77"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 7.6, 310.4, 423.6],
+ "outlines": {
+  "line": {"rings": 84, "straight": {"n": 1041, "mm": 3482.6}, "curved": {"n": 186, "mm": 306.2}},
+  "text": {"rings": 43, "straight": {"n": 371, "mm": 462.1}, "curved": {"n": 83, "mm": 120.8}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 13,
+  "lines": [
+   {"mm": [28.9, 409.6, 75.1, 415.1], "text": "WARD -BEC"},
+   {"mm": [90.2, 409.6, 142.5, 415.1], "text": "YSTEM LTD"},
+   {"mm": [112.5, 276.8, 231.9, 283.0], "text": "126 EQUALIZER FIL TER AMPLIFIER"},
+   {"mm": [279.6, 65.2, 300.5, 74.3], "text": "ps"},
+   {"mm": [267.9, 53.8, 290.0, 65.3], "text": "BS"},
+   {"mm": [245.5, 31.3, 264.0, 38.5], "text": "tp"},
+   {"mm": [238.4, 24.0, 259.3, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–310 mm across, 8–424 mm up",
+  "- **Outlines:** line 84 rings, 1,041 straight (3,483 mm) / 186 curved (306 mm); text 43 rings, 371 straight (462 mm) / 83 curved (121 mm)",
+  "- **Words (OCR):** 13 in 7 lines: WARD -BEC · YSTEM LTD · 126 EQUALIZER FIL TER AMPLIFIER · ps · BS · tp · ht"
+ ]
+}

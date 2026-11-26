@@ -1,0 +1,47 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M460M/MANUALS/1983 - M460M - Input Module.pdf",
+ "page": 38,
+ "version": 1,
+ "trace": "_traces/98911fdb9bcb0278-p38.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1583, 2000],
+  "mm": [341.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "38", "pages": "77"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, -0.1, 315.6, 423.6],
+ "outlines": {
+  "line": {"rings": 76, "straight": {"n": 907, "mm": 3240.5}, "curved": {"n": 114, "mm": 182.2}},
+  "text": {"rings": 50, "straight": {"n": 453, "mm": 537.3}, "curved": {"n": 124, "mm": 180.9}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 15,
+  "lines": [
+   {"mm": [28.9, 407.4, 47.3, 413.2], "text": "WAR"},
+   {"mm": [70.6, 407.4, 119.8, 413.2], "text": "CK YS TEM"},
+   {"mm": [130.2, 407.4, 137.7, 413.2], "text": "LT"},
+   {"mm": [109.2, 272.0, 229.5, 278.3], "text": "4-11 PREAM P/HIG PASS Fll TER"},
+   {"mm": [283.9, 66.3, 305.3, 75.6], "text": "ps"},
+   {"mm": [272.2, 54.6, 294.5, 66.4], "text": "BS"},
+   {"mm": [249.4, 31.7, 268.4, 38.9], "text": "tp"},
+   {"mm": [242.2, 24.4, 263.6, 31.6], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 342 × 432 mm, 1583 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–316 mm across, 0–424 mm up",
+  "- **Outlines:** line 76 rings, 907 straight (3,240 mm) / 114 curved (182 mm); text 50 rings, 453 straight (537 mm) / 124 curved (181 mm)",
+  "- **Words (OCR):** 15 in 8 lines: WAR · CK YS TEM · LT · 4-11 PREAM P/HIG PASS Fll TER · ps · BS · tp · ht"
+ ]
+}

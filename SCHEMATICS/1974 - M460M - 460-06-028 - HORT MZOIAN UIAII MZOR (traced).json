@@ -1,0 +1,79 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M460M/SCHEMATICS/1974 - M460M - 460-06-028 - HORT MZOIAN UIAII MZOR.jpg",
+ "version": 1,
+ "trace": "_traces/e886b5e58a0727ce.svg",
+ "sheet": {
+  "number": "460-06-028",
+  "title": "Hort Mzoian Uiaii Mzor",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1583, 2000],
+  "mm": [341.8, 431.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, 0.0, 332.3, 430.7],
+ "outlines": {
+  "line": {"rings": 5419, "straight": {"n": 24654, "mm": 25131.4}, "curved": {"n": 6266, "mm": 5584.8}},
+  "text": {"rings": 129, "straight": {"n": 1028, "mm": 1135.3}, "curved": {"n": 289, "mm": 327.4}},
+  "tb": {"rings": 2, "straight": {"n": 63, "mm": 149.4}, "curved": {"n": 7, "mm": 8.0}}
+ },
+ "circles": [{"c": [292.3, 200.9], "r": 0.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [
+  {"mm": [154.6, 196.8, 169.9, 205.5], "w": 15.3, "h": 8.7, "from": "ring"},
+  {"mm": [105.6, 196.9, 121.1, 205.3], "w": 15.5, "h": 8.4, "from": "ring"},
+  {"mm": [49.0, 196.6, 64.1, 205.1], "w": 15.1, "h": 8.5, "from": "ring"},
+  {"mm": [105.6, 187.8, 121.1, 196.5], "w": 15.5, "h": 8.6, "from": "ring"},
+  {"mm": [154.6, 188.0, 169.9, 196.5], "w": 15.3, "h": 8.4, "from": "ring"},
+  {"mm": [49.0, 187.8, 64.3, 196.3], "w": 15.3, "h": 8.4, "from": "ring"},
+  {"mm": [204.7, 185.7, 208.3, 188.0], "w": 3.7, "h": 2.4, "from": "ring"},
+  {"mm": [105.8, 179.0, 121.1, 187.4], "w": 15.3, "h": 8.4, "from": "ring"},
+  {"mm": [49.0, 178.8, 64.3, 187.2], "w": 15.3, "h": 8.4, "from": "ring"},
+  {"mm": [174.0, 182.9, 176.4, 185.0], "w": 2.4, "h": 2.2, "from": "ring"},
+  {"mm": [154.6, 170.1, 170.1, 178.8], "w": 15.5, "h": 8.7, "from": "ring"},
+  {"mm": [105.8, 170.1, 121.1, 178.5], "w": 15.3, "h": 8.4, "from": "ring"},
+  {"mm": [49.0, 169.9, 64.4, 178.3], "w": 15.4, "h": 8.4, "from": "ring"},
+  {"mm": [65.8, 29.1, 69.8, 41.9], "w": 3.9, "h": 12.7, "from": "ring"},
+  {"mm": [84.8, 29.1, 88.3, 41.9], "w": 3.5, "h": 12.7, "from": "ring"},
+  {"mm": [89.4, 29.1, 92.8, 41.9], "w": 3.5, "h": 12.7, "from": "ring"}
+ ],
+ "text": {
+  "words": 13,
+  "lines": [
+   {"mm": [302.0, 204.2, 308.1, 207.6], "text": "Side"},
+   {"mm": [203.8, 181.6, 209.6, 185.4], "text": "620"},
+   {"mm": [110.1, 164.5, 117.7, 166.7], "text": "10-011"},
+   {"mm": [28.3, 123.3, 37.6, 126.6], "text": "AL4 620"},
+   {"mm": [219.8, 55.1, 333.1, 62.0], "text": "WBS WARD-BECK SYBTEMs"},
+   {"mm": [263.0, 39.7, 287.1, 46.7], "text": "Mabom"},
+   {"mm": [247.2, 31.3, 267.7, 37.8], "text": "INPUT"},
+   {"mm": [269.9, 31.3, 299.0, 38.3], "text": "MODULE"},
+   {"mm": [236.4, 22.0, 281.3, 30.2], "text": "COMPONENT"},
+   {"mm": [283.9, 23.3, 311.3, 30.3], "text": "LAYOUT"},
+   {"mm": [222.4, 10.8, 267.3, 17.8], "text": "460-06-028"},
+   {"mm": [313.7, 11.2, 332.1, 18.2], "text": "ISS.1"}
+  ]
+ },
+ "title_block": {"mm": [212.9, 46.4, 340.0, 70.7], "from": "title-block words (training set)", "text": ["WBS WARD-BECK SYBTEMs"]},
+ "dots": [
+  {"c": [73.9, 346.2], "r": 0.7, "lines": 0},
+  {"c": [175.3, 340.6], "r": 0.9, "lines": 0},
+  {"c": [265.8, 191.2], "r": 0.7, "lines": 0},
+  {"c": [200.6, 187.5], "r": 0.8, "lines": 0},
+  {"c": [144.5, 186.1], "r": 0.9, "lines": 0},
+  {"c": [147.1, 135.0], "r": 0.7, "lines": 0}
+ ],
+ "summary": [
+  "- **Sheet:** component layout 460-06-028, size B (assumed) 342 × 432 mm, 1583 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–332 mm across, 0–431 mm up",
+  "- **Outlines:** line 5,419 rings, 24,654 straight (25,131 mm) / 6,266 curved (5,585 mm); text 129 rings, 1,028 straight (1,135 mm) / 289 curved (327 mm); tb 2 rings, 63 straight (149 mm) / 7 curved (8.0 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 0.8 @ (292.3, 200.9)",
+  "- **Closed boxes:** 16",
+  "- **Dots (junctions):** 6",
+  "- **Words (OCR):** 13 in 12 lines: Side · 620 · 10-011 · AL4 620 · WBS WARD-BECK SYBTEMs · Mabom · INPUT · MODULE · COMPONENT · LAYOUT · 460-06-028 · ISS.1",
+  "- **Title block:** (213, 46)–(340, 71) mm: WBS WARD-BECK SYBTEMs"
+ ]
+}

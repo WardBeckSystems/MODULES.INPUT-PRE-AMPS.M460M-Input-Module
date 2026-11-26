@@ -1,0 +1,45 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M460M/MANUALS/1974 - M460M - Input Module.pdf",
+ "page": 37,
+ "version": 1,
+ "trace": "_traces/fc8bf3e1b17e7d89-p37.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1583, 2000],
+  "mm": [341.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "37", "pages": "77"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 336.9, 423.2],
+ "outlines": {
+  "line": {"rings": 82, "straight": {"n": 984, "mm": 3363.5}, "curved": {"n": 132, "mm": 186.5}},
+  "text": {"rings": 54, "straight": {"n": 533, "mm": 658.0}, "curved": {"n": 124, "mm": 196.0}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 4,
+  "lines": [
+   {"mm": [31.3, 411.3, 85.3, 418.2], "text": "WAAD-BECK"},
+   {"mm": [87.4, 410.6, 150.1, 418.8], "text": "SYSTEMS LTD;"},
+   {"mm": [153.3, 232.7, 182.9, 239.7], "text": "SECTION"},
+   {"mm": [147.2, 218.5, 203.8, 225.4], "text": "SUB-ASSE MBL IES"}
+  ]
+ },
+ "title_block": {"mm": [24.5, 402.1, 156.8, 427.5], "from": "title-block words (training set)", "text": ["WAAD-BECK", "SYSTEMS LTD;"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 342 × 432 mm, 1583 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–337 mm across, 0–423 mm up",
+  "- **Outlines:** line 82 rings, 984 straight (3,364 mm) / 132 curved (186 mm); text 54 rings, 533 straight (658 mm) / 124 curved (196 mm)",
+  "- **Words (OCR):** 4 in 4 lines: WAAD-BECK · SYSTEMS LTD; · SECTION · SUB-ASSE MBL IES",
+  "- **Title block:** (24, 402)–(157, 428) mm: WAAD-BECK · SYSTEMS LTD;"
+ ]
+}

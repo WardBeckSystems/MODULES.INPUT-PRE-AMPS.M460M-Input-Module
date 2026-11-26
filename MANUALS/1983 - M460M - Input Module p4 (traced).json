@@ -1,0 +1,47 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M460M/MANUALS/1983 - M460M - Input Module.pdf",
+ "page": 4,
+ "version": 1,
+ "trace": "_traces/98911fdb9bcb0278-p4.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1583, 2000],
+  "mm": [341.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "4", "pages": "77"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [6.5, 9.7, 341.9, 426.0],
+ "outlines": {
+  "line": {"rings": 79, "straight": {"n": 1192, "mm": 3110.9}, "curved": {"n": 196, "mm": 309.9}},
+  "text": {"rings": 52, "straight": {"n": 342, "mm": 385.5}, "curved": {"n": 63, "mm": 92.7}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 10,
+  "lines": [
+   {"mm": [36.5, 408.3, 61.7, 414.0], "text": "WAFlO"},
+   {"mm": [73.0, 408.3, 109.2, 414.0], "text": "ECK SYS"},
+   {"mm": [137.7, 408.1, 154.6, 414.0], "text": "l.TO."},
+   {"mm": [151.1, 216.5, 212.2, 221.6], "text": "MOOULE ASSEMBLY"},
+   {"mm": [283.9, 66.3, 305.3, 75.6], "text": "ps"},
+   {"mm": [272.2, 54.6, 294.5, 66.4], "text": "BS"},
+   {"mm": [249.4, 31.7, 268.4, 38.9], "text": "tp"},
+   {"mm": [242.2, 24.4, 263.6, 31.6], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 342 × 432 mm, 1583 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 6–342 mm across, 10–426 mm up",
+  "- **Outlines:** line 79 rings, 1,192 straight (3,111 mm) / 196 curved (310 mm); text 52 rings, 342 straight (386 mm) / 63 curved (92.7 mm)",
+  "- **Words (OCR):** 10 in 8 lines: WAFlO · ECK SYS · l.TO. · MOOULE ASSEMBLY · ps · BS · tp · ht"
+ ]
+}

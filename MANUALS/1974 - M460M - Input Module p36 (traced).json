@@ -1,0 +1,77 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M460M/MANUALS/1974 - M460M - Input Module.pdf",
+ "page": 36,
+ "version": 1,
+ "trace": "_traces/fc8bf3e1b17e7d89-p36.svg",
+ "sheet": {
+  "number": "460-06-028",
+  "title": "",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1583, 2000],
+  "mm": [341.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "36", "pages": "77"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 332.3, 430.9],
+ "outlines": {
+  "line": {"rings": 3996, "straight": {"n": 20525, "mm": 23186.9}, "curved": {"n": 5134, "mm": 4769.1}},
+  "text": {"rings": 117, "straight": {"n": 955, "mm": 1076.8}, "curved": {"n": 289, "mm": 336.0}},
+  "tb": {"rings": 2, "straight": {"n": 61, "mm": 148.2}, "curved": {"n": 10, "mm": 9.7}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [154.6, 197.1, 170.0, 205.6], "w": 15.4, "h": 8.5, "from": "ring"},
+  {"mm": [49.0, 196.9, 64.1, 205.4], "w": 15.1, "h": 8.5, "from": "ring"},
+  {"mm": [105.5, 196.9, 120.9, 205.3], "w": 15.4, "h": 8.4, "from": "ring"},
+  {"mm": [105.6, 188.0, 120.9, 196.5], "w": 15.3, "h": 8.4, "from": "ring"},
+  {"mm": [154.4, 188.0, 169.9, 196.5], "w": 15.5, "h": 8.4, "from": "ring"},
+  {"mm": [49.0, 187.8, 64.1, 196.3], "w": 15.1, "h": 8.4, "from": "ring"},
+  {"mm": [204.7, 185.7, 208.3, 188.0], "w": 3.7, "h": 2.4, "from": "ring"},
+  {"mm": [105.8, 179.0, 121.1, 187.6], "w": 15.3, "h": 8.6, "from": "ring"},
+  {"mm": [49.0, 178.8, 64.1, 187.2], "w": 15.1, "h": 8.4, "from": "ring"},
+  {"mm": [154.6, 170.3, 169.9, 178.8], "w": 15.3, "h": 8.5, "from": "ring"},
+  {"mm": [105.8, 170.1, 121.1, 178.5], "w": 15.3, "h": 8.4, "from": "ring"},
+  {"mm": [49.0, 169.9, 64.1, 178.3], "w": 15.1, "h": 8.4, "from": "ring"},
+  {"mm": [65.8, 29.1, 69.5, 41.9], "w": 3.7, "h": 12.7, "from": "ring"},
+  {"mm": [89.4, 29.1, 92.9, 41.9], "w": 3.5, "h": 12.7, "from": "ring"}
+ ],
+ "text": {
+  "words": 12,
+  "lines": [
+   {"mm": [256.7, 187.8, 264.9, 190.0], "text": "AicIL"},
+   {"mm": [204.2, 181.6, 210.1, 185.4], "text": "620"},
+   {"mm": [53.3, 164.5, 60.2, 166.7], "text": "10-01'"},
+   {"mm": [220.0, 55.1, 332.9, 61.5], "text": "WBS WARD-BECK 9ysTems"},
+   {"mm": [262.8, 39.3, 287.6, 46.3], "text": "M4bom"},
+   {"mm": [247.2, 31.3, 268.1, 37.8], "text": "INPUT"},
+   {"mm": [270.3, 31.3, 298.8, 38.3], "text": "MODULE"},
+   {"mm": [236.2, 22.7, 280.9, 30.3], "text": "COMPONENT"},
+   {"mm": [284.1, 22.7, 312.0, 30.8], "text": "LAYOUT"},
+   {"mm": [222.8, 10.8, 267.1, 17.8], "text": "460-06-028"},
+   {"mm": [313.5, 10.8, 332.5, 17.8], "text": "ISS.1"}
+  ]
+ },
+ "title_block": {"mm": [213.3, 46.4, 339.7, 70.2], "from": "title-block words (training set)", "text": ["WBS WARD-BECK 9ysTems"]},
+ "dots": [
+  {"c": [73.8, 346.3], "r": 0.7, "lines": 0},
+  {"c": [283.2, 215.9], "r": 0.7, "lines": 0},
+  {"c": [253.9, 210.8], "r": 0.7, "lines": 0},
+  {"c": [264.0, 200.9], "r": 0.7, "lines": 0},
+  {"c": [63.1, 135.7], "r": 0.7, "lines": 0},
+  {"c": [157.1, 104.9], "r": 0.7, "lines": 0}
+ ],
+ "summary": [
+  "- **Sheet:** component layout 460-06-028, size B (assumed) 342 × 432 mm, 1583 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–332 mm across, 0–431 mm up",
+  "- **Outlines:** line 3,996 rings, 20,525 straight (23,187 mm) / 5,134 curved (4,769 mm); text 117 rings, 955 straight (1,077 mm) / 289 curved (336 mm); tb 2 rings, 61 straight (148 mm) / 10 curved (9.7 mm)",
+  "- **Closed boxes:** 14",
+  "- **Dots (junctions):** 6",
+  "- **Words (OCR):** 12 in 11 lines: AicIL · 620 · 10-01' · WBS WARD-BECK 9ysTems · M4bom · INPUT · MODULE · COMPONENT · LAYOUT · 460-06-028 · ISS.1",
+  "- **Title block:** (213, 46)–(340, 70) mm: WBS WARD-BECK 9ysTems"
+ ]
+}

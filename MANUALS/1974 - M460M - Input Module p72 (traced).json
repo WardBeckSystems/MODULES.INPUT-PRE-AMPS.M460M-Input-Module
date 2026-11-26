@@ -1,0 +1,42 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M460M/MANUALS/1974 - M460M - Input Module.pdf",
+ "page": 72,
+ "version": 1,
+ "trace": "_traces/fc8bf3e1b17e7d89-p72.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "72", "pages": "77"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 336.5, 423.4],
+ "outlines": {
+  "line": {"rings": 52, "straight": {"n": 749, "mm": 2809.2}, "curved": {"n": 108, "mm": 150.9}},
+  "text": {"rings": 63, "straight": {"n": 651, "mm": 813.7}, "curved": {"n": 155, "mm": 243.6}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 6,
+  "lines": [
+   {"mm": [27.4, 412.4, 144.0, 419.6], "text": "WAAD-BECK bybtems LTD;"},
+   {"mm": [94.3, 215.9, 203.8, 222.9], "text": "SA14-054 SOUND RE INFORCEMENT"},
+   {"mm": [207.3, 215.5, 243.3, 222.4], "text": "AMPL IFIER"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 0–423 mm up",
+  "- **Outlines:** line 52 rings, 749 straight (2,809 mm) / 108 curved (151 mm); text 63 rings, 651 straight (814 mm) / 155 curved (244 mm)",
+  "- **Words (OCR):** 6 in 3 lines: WAAD-BECK bybtems LTD; · SA14-054 SOUND RE INFORCEMENT · AMPL IFIER"
+ ]
+}

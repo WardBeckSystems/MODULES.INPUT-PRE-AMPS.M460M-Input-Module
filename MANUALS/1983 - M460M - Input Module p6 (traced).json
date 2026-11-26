@@ -1,0 +1,73 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M460M/MANUALS/1983 - M460M - Input Module.pdf",
+ "page": 6,
+ "version": 1,
+ "trace": "_traces/98911fdb9bcb0278-p6.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1583, 2000],
+  "mm": [341.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "6", "pages": "77"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.4, 0.0, 341.9, 428.6],
+ "outlines": {
+  "line": {"rings": 225, "straight": {"n": 2435, "mm": 4762.6}, "curved": {"n": 518, "mm": 783.8}},
+  "text": {"rings": 203, "straight": {"n": 1628, "mm": 1796.9}, "curved": {"n": 436, "mm": 693.4}}
+ },
+ "circles": [{"c": [191.9, 328.7], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [],
+ "text": {
+  "words": 69,
+  "lines": [
+   {"mm": [33.7, 410.0, 52.0, 415.5], "text": "WAR"},
+   {"mm": [90.5, 410.0, 148.8, 415.5], "text": "SYSTEMS LTD"},
+   {"mm": [149.6, 366.6, 206.6, 372.1], "text": "TECHN ICAL DATA"},
+   {"mm": [141.2, 353.0, 215.3, 358.3], "text": "M46QM INPUT MODULE"},
+   {"mm": [53.1, 326.4, 77.9, 332.0], "text": "ha ing:"},
+   {"mm": [153.1, 325.6, 240.7, 330.9], "text": "Inp ut an outp ut te rm ina"},
+   {"mm": [252.0, 325.6, 273.1, 330.9], "text": "des Ign"},
+   {"mm": [172.9, 319.1, 206.8, 324.6], "text": "mbers are"},
+   {"mm": [211.8, 319.1, 231.7, 324.6], "text": "In ha"},
+   {"mm": [56.8, 305.9, 112.3, 311.4], "text": "we Requ ir ement"},
+   {"mm": [166.5, 305.1, 219.1, 310.3], "text": "2S volt dc, 90"},
+   {"mm": [236.8, 305.1, 259.3, 310.3], "text": "nomina"},
+   {"mm": [152.0, 298.4, 207.9, 304.4], "text": "250 mA ma mum"},
+   {"mm": [48.1, 285.9, 108.8, 291.1], "text": "Amb ie nt Temperat"},
+   {"mm": [160.0, 285.4, 164.7, 290.9], "text": "to"},
+   {"mm": [169.5, 285.2, 224.3, 291.2], "text": "60 deg ree Ce lsi"},
+   {"mm": [48.6, 272.0, 79.9, 277.6], "text": "Oime si on"},
+   {"mm": [152.4, 271.6, 164.7, 277.1], "text": "1.6\""},
+   {"mm": [175.3, 271.6, 184.6, 277.1], "text": "ide"},
+   {"mm": [198.0, 271.6, 236.4, 277.1], "text": "110.15\" igh"},
+   {"mm": [248.7, 271.6, 262.1, 277.1], "text": "6.5\""},
+   {"mm": [166.5, 265.1, 176.8, 271.1], "text": "mm"},
+   {"mm": [188.5, 265.3, 198.2, 270.9], "text": "360"},
+   {"mm": [202.7, 265.1, 213.1, 271.1], "text": "mm"},
+   {"mm": [225.0, 265.3, 250.2, 270.9], "text": "165 mm)"},
+   {"mm": [48.6, 252.0, 72.8, 257.2], "text": "We ght:"},
+   {"mm": [166.9, 251.5, 171.6, 257.0], "text": "lb"},
+   {"mm": [191.3, 251.5, 205.8, 257.0], "text": "kg.)"},
+   {"mm": [283.9, 66.3, 305.3, 75.6], "text": "ps"},
+   {"mm": [272.2, 54.6, 294.5, 66.4], "text": "BS"},
+   {"mm": [249.4, 31.7, 268.4, 38.9], "text": "tp"},
+   {"mm": [242.2, 24.4, 263.6, 31.6], "text": "ht"}
+  ]
+ },
+ "dots": [{"c": [86.2, 275.7], "r": 0.7, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 342 × 432 mm, 1583 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–342 mm across, 0–429 mm up",
+  "- **Outlines:** line 225 rings, 2,435 straight (4,763 mm) / 518 curved (784 mm); text 203 rings, 1,628 straight (1,797 mm) / 436 curved (693 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 1.8 @ (191.9, 328.7)",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 69 in 32 lines: WAR · SYSTEMS LTD · TECHN ICAL DATA · M46QM INPUT MODULE · ha ing: · Inp ut an outp ut te rm ina · des Ign · mbers are · In ha · we Requ ir ement · 2S volt dc, 90 · nomina"
+ ]
+}

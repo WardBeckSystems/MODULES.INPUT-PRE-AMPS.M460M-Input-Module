@@ -1,0 +1,77 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M460M/MANUALS/1974 - M460M - Input Module.pdf",
+ "page": 74,
+ "version": 1,
+ "trace": "_traces/fc8bf3e1b17e7d89-p74.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "74", "pages": "77"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.5, 9.9, 309.6, 430.1],
+ "outlines": {
+  "line": {"rings": 93, "straight": {"n": 1355, "mm": 4451.1}, "curved": {"n": 190, "mm": 300.1}},
+  "text": {"rings": 253, "straight": {"n": 2196, "mm": 2673.3}, "curved": {"n": 583, "mm": 945.7}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [151.3, 215.3, 185.0, 282.8], "w": 33.6, "h": 67.6, "from": "ring", "words": ["10"]},
+  {"mm": [153.9, 269.7, 167.1, 280.9], "w": 13.1, "h": 11.2, "from": "ring"},
+  {"mm": [153.9, 256.7, 167.1, 267.7], "w": 13.2, "h": 11.0, "from": "ring"},
+  {"mm": [168.8, 256.7, 182.4, 267.7], "w": 13.7, "h": 11.0, "from": "ring"},
+  {"mm": [153.9, 243.3, 167.1, 254.8], "w": 13.2, "h": 11.4, "from": "ring"},
+  {"mm": [168.8, 243.3, 182.7, 254.8], "w": 13.8, "h": 11.4, "from": "ring"},
+  {"mm": [153.9, 229.4, 167.3, 241.4], "w": 13.4, "h": 11.9, "from": "ring"},
+  {"mm": [169.0, 229.3, 182.8, 241.4], "w": 13.8, "h": 12.0, "from": "ring"},
+  {"mm": [153.9, 217.2, 167.3, 228.0], "w": 13.4, "h": 10.8, "from": "ring"},
+  {"mm": [169.0, 217.4, 182.7, 228.0], "w": 13.6, "h": 10.6, "from": "ring", "words": ["10"]}
+ ],
+ "text": {
+  "words": 37,
+  "lines": [
+   {"mm": [29.1, 414.5, 146.2, 422.2], "text": "WAAD-BECK SySteMS LTD."},
+   {"mm": [138.6, 371.3, 204.5, 378.3], "text": "CONNECTOR LAYOUT"},
+   {"mm": [96.5, 358.4, 246.6, 365.4], "text": "SA1L-054 SOUND RE INFORCEMENT AMPLIFIER"},
+   {"mm": [118.1, 270.3, 133.9, 277.3], "text": "-1V"},
+   {"mm": [207.7, 271.4, 216.8, 277.9], "text": "NC"},
+   {"mm": [122.4, 261.2, 135.4, 268.2], "text": "out"},
+   {"mm": [207.7, 261.7, 221.1, 268.6], "text": "out"},
+   {"mm": [122.4, 246.6, 136.4, 253.0], "text": "coM"},
+   {"mm": [207.7, 247.2, 222.2, 253.7], "text": "Com"},
+   {"mm": [127.4, 233.2, 135.6, 239.6], "text": "IN"},
+   {"mm": [208.3, 233.6, 217.6, 240.1], "text": "NC"},
+   {"mm": [118.1, 219.8, 134.3, 226.7], "text": "+21v"},
+   {"mm": [172.1, 219.1, 180.3, 225.6], "text": "10"},
+   {"mm": [208.3, 220.2, 217.6, 226.7], "text": "NC"},
+   {"mm": [78.2, 192.6, 87.2, 199.1], "text": "NC"},
+   {"mm": [112.7, 193.2, 166.7, 199.7], "text": "Not CONNECTED"},
+   {"mm": [149.4, 85.9, 227.1, 92.9], "text": "MATING CONNECTOR P1"},
+   {"mm": [117.7, 85.9, 146.8, 92.4], "text": "TYPicAL"},
+   {"mm": [151.3, 73.2, 183.7, 80.1], "text": "65846-010"},
+   {"mm": [213.1, 73.4, 254.1, 80.4], "text": "(Mini Latch"},
+   {"mm": [256.7, 73.0, 286.3, 80.4], "text": "Housing)"},
+   {"mm": [78.8, 72.3, 96.1, 78.8], "text": "BERG"},
+   {"mm": [78.8, 65.8, 96.5, 72.3], "text": "BERG"},
+   {"mm": [151.6, 66.5, 178.5, 73.5], "text": "PVL7712"},
+   {"mm": [213.5, 66.5, 265.3, 73.9], "text": "(Pv Terminals)"},
+   {"mm": [143.6, 19.4, 195.0, 26.4], "text": "5A14-054 2-1"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–310 mm across, 10–430 mm up",
+  "- **Outlines:** line 93 rings, 1,355 straight (4,451 mm) / 190 curved (300 mm); text 253 rings, 2,196 straight (2,673 mm) / 583 curved (946 mm)",
+  "- **Closed boxes:** 10; named: 10; 10",
+  "- **Words (OCR):** 37 in 26 lines: WAAD-BECK SySteMS LTD. · CONNECTOR LAYOUT · SA1L-054 SOUND RE INFORCEMENT AMPLIFIER · -1V · NC · out · out · coM · Com · IN · NC · +21v"
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M460M/MANUALS/1983 - M460M - Input Module.pdf",
+ "page": 42,
+ "version": 1,
+ "trace": "_traces/98911fdb9bcb0278-p42.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "42", "pages": "77"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 336.4, 428.6],
+ "outlines": {
+  "line": {"rings": 133, "straight": {"n": 1865, "mm": 4694.0}, "curved": {"n": 375, "mm": 577.4}},
+  "text": {"rings": 319, "straight": {"n": 2670, "mm": 2961.5}, "curved": {"n": 738, "mm": 1149.9}}
+ },
+ "circles": [],
+ "boxes": [{"mm": [93.1, 305.1, 95.4, 307.4], "w": 2.4, "h": 2.4, "from": "ring"}],
+ "text": {
+  "words": 55,
+  "lines": [
+   {"mm": [44.9, 410.6, 50.1, 416.2], "text": "FI"},
+   {"mm": [92.6, 410.4, 138.4, 416.2], "text": "YSTEMS LT"},
+   {"mm": [149.4, 361.0, 170.8, 367.0], "text": "PARTS"},
+   {"mm": [182.0, 361.0, 189.6, 367.0], "text": "ST"},
+   {"mm": [113.1, 347.6, 228.2, 353.6], "text": "4-110 PREAMP/HIGIl·PASS FILTER"},
+   {"mm": [48.1, 321.0, 65.2, 327.0], "text": "PART"},
+   {"mm": [76.6, 321.0, 120.5, 327.0], "text": "DESCRIPTION"},
+   {"mm": [189.3, 320.2, 203.4, 325.9], "text": "MFG"},
+   {"mm": [237.7, 319.7, 297.1, 325.7], "text": "MFG PART NUMBER"},
+   {"mm": [48.1, 304.0, 59.4, 316.0], "text": "'14"},
+   {"mm": [141.2, 307.2, 152.6, 313.2], "text": "4K7"},
+   {"mm": [48.1, 300.5, 58.9, 307.0], "text": "015"},
+   {"mm": [145.5, 300.7, 152.6, 306.7], "text": "70"},
+   {"mm": [48.1, 292.8, 59.4, 299.2], "text": "01'"},
+   {"mm": [141.6, 294.1, 158.0, 300.1], "text": "3301("},
+   {"mm": [48.1, 281.1, 53.5, 287.1], "text": "Zl"},
+   {"mm": [77.1, 280.5, 148.1, 286.9], "text": "In tegrated Circuit"},
+   {"mm": [190.0, 280.0, 197.1, 286.5], "text": "Fe"},
+   {"mm": [210.1, 280.2, 220.0, 286.7], "text": "htl"},
+   {"mm": [237.7, 280.2, 261.7, 286.2], "text": "NE531V"},
+   {"mm": [76.2, 247.2, 118.7, 253.7], "text": "Selec ted to"},
+   {"mm": [141.2, 247.2, 172.3, 253.7], "text": "tolera nc"},
+   {"mm": [47.5, 191.7, 146.4, 198.2], "text": "WBS recommends he use of"},
+   {"mm": [176.8, 191.7, 186.5, 198.2], "text": "eee"},
+   {"mm": [201.0, 191.7, 267.9, 198.2], "text": "parts made by the"},
+   {"mm": [47.7, 184.6, 267.5, 191.1], "text": "specified manufactu re rs for continued optimum equipment"},
+   {"mm": [47.9, 178.8, 91.1, 185.2], "text": "performance"},
+   {"mm": [279.6, 65.2, 300.5, 74.3], "text": "ps"},
+   {"mm": [267.9, 53.8, 290.0, 65.3], "text": "BS"},
+   {"mm": [245.5, 31.3, 264.0, 38.5], "text": "tp"},
+   {"mm": [238.4, 24.0, 259.3, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 0–429 mm up",
+  "- **Outlines:** line 133 rings, 1,865 straight (4,694 mm) / 375 curved (577 mm); text 319 rings, 2,670 straight (2,962 mm) / 738 curved (1,150 mm)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 55 in 31 lines: FI · YSTEMS LT · PARTS · ST · 4-110 PREAMP/HIGIl·PASS FILTER · PART · DESCRIPTION · MFG · MFG PART NUMBER · '14 · 4K7 · 015"
+ ]
+}

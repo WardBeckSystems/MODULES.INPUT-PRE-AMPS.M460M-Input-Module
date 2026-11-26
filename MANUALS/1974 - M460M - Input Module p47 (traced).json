@@ -1,0 +1,42 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M460M/MANUALS/1974 - M460M - Input Module.pdf",
+ "page": 47,
+ "version": 1,
+ "trace": "_traces/fc8bf3e1b17e7d89-p47.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "47", "pages": "77"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 7.6, 310.2, 423.6],
+ "outlines": {
+  "line": {"rings": 46, "straight": {"n": 735, "mm": 3117.8}, "curved": {"n": 99, "mm": 158.4}},
+  "text": {"rings": 74, "straight": {"n": 650, "mm": 811.2}, "curved": {"n": 158, "mm": 254.3}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 5,
+  "lines": [
+   {"mm": [27.4, 409.8, 142.9, 416.7], "text": "WARD-BECK SYSTems LTD"},
+   {"mm": [101.5, 275.9, 233.2, 285.0], "text": "4-126 EQUALIZER FILTER AMPLIF IER"},
+   {"mm": [158.7, 6.5, 180.3, 14.2], "text": "4-126"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–310 mm across, 8–424 mm up",
+  "- **Outlines:** line 46 rings, 735 straight (3,118 mm) / 99 curved (158 mm); text 74 rings, 650 straight (811 mm) / 158 curved (254 mm)",
+  "- **Words (OCR):** 5 in 3 lines: WARD-BECK SYSTems LTD · 4-126 EQUALIZER FILTER AMPLIF IER · 4-126"
+ ]
+}

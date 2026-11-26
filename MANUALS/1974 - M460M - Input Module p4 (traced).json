@@ -1,0 +1,42 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M460M/MANUALS/1974 - M460M - Input Module.pdf",
+ "page": 4,
+ "version": 1,
+ "trace": "_traces/fc8bf3e1b17e7d89-p4.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1583, 2000],
+  "mm": [341.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "4", "pages": "77"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [6.5, 9.7, 341.9, 426.0],
+ "outlines": {
+  "line": {"rings": 49, "straight": {"n": 884, "mm": 2725.1}, "curved": {"n": 114, "mm": 171.6}},
+  "text": {"rings": 47, "straight": {"n": 498, "mm": 629.7}, "curved": {"n": 127, "mm": 207.3}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 4,
+  "lines": [
+   {"mm": [35.8, 408.3, 155.9, 416.4], "text": "WARD-BECK SYSTEmB LTD."},
+   {"mm": [163.0, 230.6, 192.2, 237.1], "text": "SECTION"},
+   {"mm": [150.1, 216.3, 212.7, 223.3], "text": "MODULE ASSEMBLY"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 342 × 432 mm, 1583 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 6–342 mm across, 10–426 mm up",
+  "- **Outlines:** line 49 rings, 884 straight (2,725 mm) / 114 curved (172 mm); text 47 rings, 498 straight (630 mm) / 127 curved (207 mm)",
+  "- **Words (OCR):** 4 in 3 lines: WARD-BECK SYSTEmB LTD. · SECTION · MODULE ASSEMBLY"
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M460M/MANUALS/1983 - M460M - Input Module.pdf",
+ "page": 76,
+ "version": 1,
+ "trace": "_traces/98911fdb9bcb0278-p76.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "76", "pages": "77"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, -0.1, 320.2, 431.8],
+ "outlines": {
+  "line": {"rings": 200, "straight": {"n": 2842, "mm": 2643.9}, "curved": {"n": 718, "mm": 782.1}},
+  "text": {"rings": 136, "straight": {"n": 1010, "mm": 1180.9}, "curved": {"n": 251, "mm": 372.3}}
+ },
+ "circles": [{"c": [205.3, 27.0], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [],
+ "text": {
+  "words": 29,
+  "lines": [
+   {"mm": [4.7, 305.5, 8.9, 309.1], "text": "CJ"},
+   {"mm": [51.2, 304.4, 55.7, 307.8], "text": "R6"},
+   {"mm": [50.7, 297.1, 54.6, 300.4], "text": "75"},
+   {"mm": [1.1, 295.4, 12.5, 298.9], "text": "68/6.3"},
+   {"mm": [29.6, 279.6, 34.1, 282.9], "text": "R7"},
+   {"mm": [28.9, 276.1, 36.1, 280.0], "text": "22K"},
+   {"mm": [30.9, 236.6, 35.4, 240.0], "text": "R6"},
+   {"mm": [89.8, 219.4, 94.3, 223.0], "text": "PI"},
+   {"mm": [5.6, 218.5, 10.1, 222.1], "text": "C4"},
+   {"mm": [52.0, 217.2, 56.6, 220.6], "text": "R9"},
+   {"mm": [52.2, 210.5, 56.1, 213.9], "text": "75"},
+   {"mm": [1.3, 207.9, 12.5, 211.3], "text": "68/6.3"},
+   {"mm": [285.4, 59.2, 306.4, 68.3], "text": "ps"},
+   {"mm": [274.0, 47.7, 296.0, 59.2], "text": "BS"},
+   {"mm": [201.9, 46.0, 317.2, 54.4], "text": "[was] WARD-BECK BYSTEMS"},
+   {"mm": [243.8, 30.7, 277.2, 36.4], "text": "SA14-054"},
+   {"mm": [251.5, 25.3, 270.1, 32.5], "text": "tp"},
+   {"mm": [198.6, 23.1, 320.2, 28.6], "text": "SOUND RE INFORCEMEN AMPLIFIER"},
+   {"mm": [244.2, 18.1, 265.1, 25.3], "text": "ht"},
+   {"mm": [241.2, 15.1, 277.9, 20.6], "text": "SCHEMATIC"},
+   {"mm": [210.1, 3.2, 263.2, 9.0], "text": "14-054 -02 -001"},
+   {"mm": [302.3, 2.6, 307.4, 8.3], "text": "15"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–320 mm across, 0–432 mm up",
+  "- **Outlines:** line 200 rings, 2,842 straight (2,644 mm) / 718 curved (782 mm); text 136 rings, 1,010 straight (1,181 mm) / 251 curved (372 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.4 @ (205.3, 27.0)",
+  "- **Words (OCR):** 29 in 22 lines: CJ · R6 · 75 · 68/6.3 · R7 · 22K · R6 · PI · C4 · R9 · 75 · 68/6.3"
+ ]
+}

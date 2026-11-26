@@ -1,0 +1,42 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M460M/MANUALS/1974 - M460M - Input Module.pdf",
+ "page": 38,
+ "version": 1,
+ "trace": "_traces/fc8bf3e1b17e7d89-p38.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1583, 2000],
+  "mm": [341.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "38", "pages": "77"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, -0.1, 315.6, 423.6],
+ "outlines": {
+  "line": {"rings": 59, "straight": {"n": 765, "mm": 3042.7}, "curved": {"n": 95, "mm": 148.9}},
+  "text": {"rings": 65, "straight": {"n": 587, "mm": 728.5}, "curved": {"n": 143, "mm": 214.1}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 5,
+  "lines": [
+   {"mm": [28.5, 407.6, 146.2, 415.1], "text": "WAAD-BECK SYSTEMS LTD_"},
+   {"mm": [108.0, 272.5, 130.0, 280.1], "text": "4-110"},
+   {"mm": [132.8, 272.0, 228.9, 280.2], "text": "PREAMP /HIGH-PASS FILTER"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 342 × 432 mm, 1583 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–316 mm across, 0–424 mm up",
+  "- **Outlines:** line 59 rings, 765 straight (3,043 mm) / 95 curved (149 mm); text 65 rings, 587 straight (728 mm) / 143 curved (214 mm)",
+  "- **Words (OCR):** 5 in 3 lines: WAAD-BECK SYSTEMS LTD_ · 4-110 · PREAMP /HIGH-PASS FILTER"
+ ]
+}
