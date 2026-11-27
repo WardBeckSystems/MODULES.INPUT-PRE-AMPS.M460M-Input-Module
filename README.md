@@ -13,6 +13,40 @@ Ward-Beck Systems M460M, 1974|7. Wiki page: [M460M on WBSps.ca](https://wardbeck
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 38 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 150 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [9 topics](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [1974 - M460M - P005 - 1-1.jpg](MANUALS/1974%20-%20M460M%20-%20P005%20-%201-1.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Input sensitivities** |  |
+| &nbsp;&nbsp;Line | ieloMic Pad 9446 Mic +10 dBm (ref 600 ohm source) 20 dBm (ref 150 ohm source) ~40 dBm (ref 150 ohm source) |
+| **Frequency response** | +/ -0.25 dB from Hz 20 kHz (Equalizer bypass position) &quot;relay |
+| **Noise** | -125 dBm EIN maximum SENSiTiViTY (20 Hz to 20 kHz) |
+| **Harmonic distortion** | Less than 257 THD from 30 Hz 20 kHz +28 dBm or ess Less than 1% kHz at +28 dBm output. |
+| **Source impedances** | Line Mic 50/600 ohms balanced/unbalanced 150 ohms, balanced/unbalanced |
+| **Input impedances** |  |
+| &nbsp;&nbsp;Line | Mic 000 ohms 500 ohms |
+| **Output impedance** | Less than 100 ohms (at outputs 8-109 B-109A amplifiers only) 150 ohms sound reinforcement output. |
+| **Load impedance** | 600 ohms, balanced (at insertion point) 600 ohms balanced at sound reinforcement output. |
+| **Output level** | -10 dBm nominal +30 dBm maximum (at outputs 8-109 8-109A amplifiers only) -10 dBm nom. sound reinforcement output +20 dBm maximum |
+
+## Circuit description
+
+From [1974 - M460M - P007 - 2-1.jpg](MANUALS/1974%20-%20M460M%20-%20P007%20-%202-1.jpg) page 1 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+M46oM INPUT_MODULE The M46oM combination INPUT/EQUAL IZER module, designed accept input signals originating from either microphone Line source The unit processes the input signa as required and routes the appropriate points within the mixing console system. OElTUJ Input Oz 2Cei2 Co 70 o s2s/d-ic Isnc, The INPUT SELECTOR switch SwI provides choice connecting the input transformer either the MICROPHONE source directly, via 20 dB PAD. either case; the input impedance the unit times higher than the source impedance the LINE position, the ML6oM operates as bridging amplifier, presenting 30k ohm impedance the source Both Mic and LINE inputs are transformer coupled. With the INPUT SELECTOR in the OFF position, all inputs are disconnected and the module input terminated. 5771 4j89 Preamelifier 1~? &quot; &quot; namicc Tco 2724 &quot;Joivba The secondary side connected the 4-110 Preamp/High-pass filter _ The 4-110 serves as low-noise preamp and raises the input levels sufficiently for further processing within the console system SENSITIViTY control R1L permits continuous evel adjustment all input signals, lowing total range dB. HGH-PASS Filter Moc neAv 5i2 7917676 3 0|9 Uf =4 # Toido FR 4 DXM Switch SW17 incorporated the HIGH-PASS filter control R12/13_ With R12/13 positioned fully counterclockwise, SW17 Passes the ouiput the 4-110 directly the equalizer insert switch SW13. Once R12/13 rotated way from the extreme counterclockwise position, dBfoctave high-pass filter inserted The dB rolloff point continuously adjustable from 250 Hz EQUALIZER Section |0 # &quot; Jviuls ? #oJ Cca-c7 rili' - {J s = 3 The output the 4-110 preamplifier routed one the normally closed contacts the EQUALIZER INSERT switch Sw13 allow bypassing the equalizer and the 5A14-054 Sound Reinforcement Amplifier Additionally, the preamp output fed U1, the first four cascaded summing amplifiers u1 through U4 u1 through U4 serve as mixing and isolation amplifiers. They are used mix the primary input signal with correction signal derived from the outputs the 4-126 filter networks resulting in raising lowering the level selected portions the audio spectrum.
+
+</details>
+
+<!-- /module data -->
+
 ## Mechanical
 
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._

@@ -1,0 +1,220 @@
+{
+ "module": "M460M",
+ "title": "M46om INPUI_MODULE",
+ "source": {
+  "file": "MANUALS/1974 - M460M - P005 - 1-1.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.98,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Input sensitivities",
+   "key": "input_sensitivity",
+   "text": "",
+   "items": [
+    {
+     "name": "Line",
+     "text": "ieloMic Pad 9446 Mic +10 dBm (ref 600 ohm source) 20 dBm (ref 150 ohm source) ~40 dBm (ref 150 ohm source)",
+     "quantities": [
+      {
+       "value": 10,
+       "unit": "dBm"
+      },
+      {
+       "value": 600,
+       "unit": "ohm"
+      },
+      {
+       "value": 20,
+       "unit": "dBm"
+      },
+      {
+       "value": 150,
+       "unit": "ohm"
+      },
+      {
+       "value": 40,
+       "unit": "dBm"
+      },
+      {
+       "value": 150,
+       "unit": "ohm"
+      }
+     ],
+     "key": "line"
+    }
+   ]
+  },
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": "+/ -0.25 dB from Hz 20 kHz (Equalizer bypass position) \"relay",
+   "quantities": [
+    {
+     "value": -0.25,
+     "unit": "dB"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "-125 dBm EIN maximum SENSiTiViTY (20 Hz to 20 kHz)",
+   "quantities": [
+    {
+     "value": -125,
+     "unit": "dBm"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Harmonic distortion",
+   "key": "harmonic_distortion",
+   "text": "Less than 257 THD from 30 Hz 20 kHz +28 dBm or ess Less than 1% kHz at +28 dBm output.",
+   "quantities": [
+    {
+     "value": 30,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": 28,
+     "unit": "dBm"
+    },
+    {
+     "value": 1,
+     "unit": "%"
+    },
+    {
+     "value": 28,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Source impedances",
+   "key": "source_impedance",
+   "text": "Line Mic 50/600 ohms balanced/unbalanced 150 ohms, balanced/unbalanced",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    },
+    {
+     "value": 150,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Input impedances",
+   "key": "input_impedance",
+   "text": "",
+   "items": [
+    {
+     "name": "Line",
+     "text": "Mic 000 ohms 500 ohms",
+     "quantities": [
+      {
+       "value": 0,
+       "unit": "ohms"
+      },
+      {
+       "value": 500,
+       "unit": "ohms"
+      }
+     ],
+     "key": "line"
+    }
+   ]
+  },
+  {
+   "name": "Output impedance",
+   "key": "output_impedance",
+   "text": "Less than 100 ohms (at outputs 8-109 B-109A amplifiers only) 150 ohms sound reinforcement output.",
+   "quantities": [
+    {
+     "value": 100,
+     "unit": "ohms"
+    },
+    {
+     "value": -109,
+     "unit": "A"
+    },
+    {
+     "value": 150,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Load impedance",
+   "key": "load_impedance",
+   "text": "600 ohms, balanced (at insertion point) 600 ohms balanced at sound reinforcement output.",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    },
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Output level",
+   "key": "output_level",
+   "text": "-10 dBm nominal +30 dBm maximum (at outputs 8-109 8-109A amplifiers only) -10 dBm nom. sound reinforcement output +20 dBm maximum",
+   "quantities": [
+    {
+     "value": -10,
+     "unit": "dBm"
+    },
+    {
+     "value": 30,
+     "unit": "dBm"
+    },
+    {
+     "from": 8,
+     "to": 109,
+     "unit": "A"
+    },
+    {
+     "value": -10,
+     "unit": "dBm"
+    },
+    {
+     "value": 20,
+     "unit": "dBm"
+    }
+   ]
+  }
+ ],
+ "also_in": [
+  {
+   "file": "MANUALS/1974 - M460M - P005 - 1-1 (2).jpg",
+   "page": 1
+  },
+  {
+   "file": "MANUALS/1974 - M460M - P006 - 1-2 (2).jpg",
+   "page": 1
+  }
+ ]
+}
