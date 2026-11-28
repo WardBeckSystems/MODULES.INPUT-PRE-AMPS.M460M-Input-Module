@@ -7,261 +7,6 @@
  "verified": null,
  "derived": false,
  "variant_of": null,
- "pins": [
-  {
-   "pin": "1",
-   "signal": "MIC IN",
-   "kind": "in",
-   "pair": "A1",
-   "polarity": "+",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M460M/M460M.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "5",
-   "signal": "BUS RIGHT OUT",
-   "kind": "out",
-   "pair": "A3",
-   "polarity": "+",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M460M/M460M.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "12",
-   "signal": "DIRECT OUT",
-   "kind": "out",
-   "pair": "A4",
-   "polarity": "+",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M460M/M460M.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "14",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/INPUT-PRE-AMPS/M460M/MANUALS/1974 - M460M - P009 - 2-3 (2).jpg",
-   "page": 1
-  },
-  {
-   "pin": "17",
-   "signal": "LINE IN",
-   "kind": "in",
-   "pair": "A2",
-   "polarity": "+",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M460M/M460M.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "18",
-   "signal": "COMMON",
-   "kind": "ground",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M460M/M460M.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "19",
-   "signal": "FADER RETURN",
-   "kind": "in",
-   "pair": "B4",
-   "polarity": "+",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M460M/M460M.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "19",
-   "signal": "-25 V",
-   "kind": "power",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M460M/M460M.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "20",
-   "signal": "CH ON SWITCH OUT",
-   "kind": "control",
-   "pair": "B3",
-   "polarity": "+",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M460M/M460M.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "20",
-   "signal": "COMMON",
-   "kind": "ground",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M460M/M460M.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "21",
-   "signal": "INSERT RETURN",
-   "kind": "in",
-   "pair": "B2",
-   "polarity": "+",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M460M/M460M.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "21",
-   "signal": "+25 V",
-   "kind": "power",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M460M/M460M.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "22",
-   "signal": "INSERT OUT",
-   "kind": "out",
-   "pair": "B1",
-   "polarity": "+",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M460M/M460M.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "22",
-   "signal": "CHASSIS",
-   "kind": "ground",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M460M/M460M.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "A",
-   "signal": "MIC IN",
-   "kind": "in",
-   "pair": "A1",
-   "polarity": "-",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M460M/M460M.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "E",
-   "signal": "BUS RIGHT OUT",
-   "kind": "out",
-   "pair": "A3",
-   "polarity": "-",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M460M/M460M.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "N",
-   "signal": "DIRECT OUT",
-   "kind": "out",
-   "pair": "A4",
-   "polarity": "-",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M460M/M460M.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "U",
-   "signal": "LINE IN",
-   "kind": "in",
-   "pair": "A2",
-   "polarity": "-",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M460M/M460M.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "W",
-   "signal": "FADER RETURN",
-   "kind": "in",
-   "pair": "B4",
-   "polarity": "-",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M460M/M460M.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "X",
-   "signal": "CH ON SWITCH OUT",
-   "kind": "control",
-   "pair": "B3",
-   "polarity": "-",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M460M/M460M.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "Y",
-   "signal": "INSERT RETURN",
-   "kind": "in",
-   "pair": "B2",
-   "polarity": "-",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M460M/M460M.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "Y",
-   "signal": "+24 V",
-   "kind": "power",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M460M/M460M.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "Z",
-   "signal": "INSERT OUT",
-   "kind": "out",
-   "pair": "B1",
-   "polarity": "-",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M460M/M460M.rto144.json",
-   "page": 1
-  }
- ],
  "straps": [
   {
    "function": "CH ON LAMP",
@@ -344,5 +89,314 @@
  "sources": [
   "Engineering/RTO-144/M460M/M460M.rto144.json",
   "Modules/INPUT-PRE-AMPS/M460M/MANUALS/1974 - M460M - P009 - 2-3 (2).jpg"
- ]
+ ],
+ "pins": [
+  {
+   "connector": "P1",
+   "pin": "1",
+   "signal": "MIC-IN",
+   "kind": "in",
+   "port": "A1",
+   "polarity": "+"
+  },
+  {
+   "connector": "P1",
+   "pin": "3",
+   "signal": "BUS-AUX8-PA-OUT",
+   "kind": "bus",
+   "port": "AUX8-PA",
+   "polarity": "+"
+  },
+  {
+   "connector": "P1",
+   "pin": "4",
+   "signal": "BUS-FB2-OUT",
+   "kind": "bus",
+   "port": "AUX2-FB2",
+   "polarity": "+"
+  },
+  {
+   "connector": "P1",
+   "pin": "5",
+   "signal": "BUS-FB1-OUT",
+   "kind": "bus",
+   "port": "AUX1-FB1",
+   "polarity": "+"
+  },
+  {
+   "connector": "P1",
+   "pin": "8",
+   "signal": "BUS-SUB2-RS2-OUT",
+   "kind": "bus",
+   "port": "SUB2-RS2",
+   "polarity": "+"
+  },
+  {
+   "connector": "P1",
+   "pin": "9",
+   "signal": "BUS-SUB1-RS1-OUT",
+   "kind": "bus",
+   "port": "SUB1-RS1",
+   "polarity": "+"
+  },
+  {
+   "connector": "P1",
+   "pin": "12",
+   "signal": "BUS-SOLO-CUE-OUT",
+   "kind": "bus",
+   "port": "SOLO-CUE",
+   "polarity": "+"
+  },
+  {
+   "connector": "P1",
+   "pin": "17",
+   "signal": "LINE-IN",
+   "kind": "in",
+   "port": "A2",
+   "polarity": "+"
+  },
+  {
+   "connector": "P1",
+   "pin": "19",
+   "signal": "FADER-RETURN",
+   "kind": "in",
+   "port": "B4",
+   "polarity": "+"
+  },
+  {
+   "connector": "P1",
+   "pin": "20",
+   "signal": "CH-ON-SWITCH OUT",
+   "kind": "out",
+   "port": "B3",
+   "polarity": "+"
+  },
+  {
+   "connector": "P1",
+   "pin": "21",
+   "signal": "INSERT-RETURN",
+   "kind": "insert_return",
+   "port": "B2",
+   "polarity": "+"
+  },
+  {
+   "connector": "P1",
+   "pin": "22",
+   "signal": "INSERT-OUT",
+   "kind": "insert_send",
+   "port": "B1",
+   "polarity": "+"
+  },
+  {
+   "connector": "P1",
+   "pin": "A",
+   "signal": "MIC-IN",
+   "kind": "in",
+   "port": "A1",
+   "polarity": "-"
+  },
+  {
+   "connector": "P1",
+   "pin": "C",
+   "signal": "BUS-AUX8-PA-OUT",
+   "kind": "bus",
+   "port": "AUX8-PA",
+   "polarity": "-"
+  },
+  {
+   "connector": "P1",
+   "pin": "E",
+   "signal": "BUS-FB1-OUT",
+   "kind": "bus",
+   "port": "AUX1-FB1",
+   "polarity": "-"
+  },
+  {
+   "connector": "P1",
+   "pin": "J",
+   "signal": "BUS-SUB2-RS2-OUT",
+   "kind": "bus",
+   "port": "SUB2-RS2",
+   "polarity": "-"
+  },
+  {
+   "connector": "P1",
+   "pin": "K",
+   "signal": "BUS-SUB1-RS1-OUT",
+   "kind": "bus",
+   "port": "SUB1-RS1",
+   "polarity": "-"
+  },
+  {
+   "connector": "P1",
+   "pin": "N",
+   "signal": "BUS-SOLO-CUE-OUT",
+   "kind": "bus",
+   "port": "SOLO-CUE",
+   "polarity": "-"
+  },
+  {
+   "connector": "P1",
+   "pin": "U",
+   "signal": "LINE-IN",
+   "kind": "in",
+   "port": "A2",
+   "polarity": "-"
+  },
+  {
+   "connector": "P1",
+   "pin": "W",
+   "signal": "FADER-RETURN",
+   "kind": "in",
+   "port": "B4",
+   "polarity": "-"
+  },
+  {
+   "connector": "P1",
+   "pin": "X",
+   "signal": "CH-ON-SWITCH OUT",
+   "kind": "out",
+   "port": "B3",
+   "polarity": "-"
+  },
+  {
+   "connector": "P1",
+   "pin": "Y",
+   "signal": "INSERT-RETURN",
+   "kind": "insert_return",
+   "port": "B2",
+   "polarity": "-"
+  },
+  {
+   "connector": "P1",
+   "pin": "Z",
+   "signal": "INSERT-OUT",
+   "kind": "insert_send",
+   "port": "B1",
+   "polarity": "-"
+  },
+  {
+   "connector": "P2",
+   "pin": "3",
+   "signal": "BUS-LEFT-OUT",
+   "kind": "bus",
+   "port": "LEFT",
+   "polarity": "+"
+  },
+  {
+   "connector": "P2",
+   "pin": "5",
+   "signal": "BUS-RIGHT-OUT",
+   "kind": "out",
+   "port": "A3",
+   "polarity": "+"
+  },
+  {
+   "connector": "P2",
+   "pin": "12",
+   "signal": "DIRECT OUT",
+   "kind": "out",
+   "port": "A4",
+   "polarity": "+"
+  },
+  {
+   "connector": "P2",
+   "pin": "18",
+   "signal": "COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "19",
+   "signal": "VEE-AUDIO -25 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "20",
+   "signal": "COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "21",
+   "signal": "VCC-AUDIO +25 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "22",
+   "signal": "CHASSIS",
+   "kind": "shield",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "C",
+   "signal": "BUS-LEFT-OUT",
+   "kind": "bus",
+   "port": "LEFT",
+   "polarity": "-"
+  },
+  {
+   "connector": "P2",
+   "pin": "E",
+   "signal": "BUS-RIGHT-OUT",
+   "kind": "out",
+   "port": "A3",
+   "polarity": "-"
+  },
+  {
+   "connector": "P2",
+   "pin": "N",
+   "signal": "DIRECT OUT",
+   "kind": "out",
+   "port": "A4",
+   "polarity": "-"
+  },
+  {
+   "connector": "P2",
+   "pin": "W",
+   "signal": "JMP.Z.W",
+   "kind": "strap",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "X",
+   "signal": "JMP.X.18",
+   "kind": "strap",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "Y",
+   "signal": "VCC-LOGIC +24 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "Z",
+   "signal": "JMP.Z.W",
+   "kind": "strap",
+   "port": null,
+   "polarity": null
+  }
+ ],
+ "built_from": {
+  "synthesized": "tools/symbol_synth.py in WBSps.ca from Engineering/RTO-144/M460M/M460M.rto144.json"
+ }
 }
