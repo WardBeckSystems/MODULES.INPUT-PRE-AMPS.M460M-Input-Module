@@ -1,5 +1,5 @@
 # 1983 - M460M - Input Module.pdf
-Wiki page: [M460M](../../../../PAGES/M460M.md)
+Wiki page: [M460M](../)
 
 
 - **Year:** 1983 (found in this file: "ISSUE * 1 tp ht APRIL 1983")

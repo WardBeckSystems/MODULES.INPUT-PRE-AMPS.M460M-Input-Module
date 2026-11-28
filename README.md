@@ -1,6 +1,6 @@
 # M460M Input Module · Input Pre Amps
 
-Ward-Beck Systems M460M, 1974|7. Wiki page: [M460M on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M460M.html)
+Ward-Beck Systems M460M, 1974|7. Wiki page: [M460M on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460M-Input-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

@@ -1,5 +1,5 @@
 # 1974 - M460M - 460-01-028 - OHMS PAN INSER LEFT OUTPUT PAN CONTROL RIGHT.jpg
-Wiki page: [M460M](../../../../PAGES/M460M.md)
+Wiki page: [M460M](../)
 
 
 - **Year:** 1974 (module estimate (labelled))

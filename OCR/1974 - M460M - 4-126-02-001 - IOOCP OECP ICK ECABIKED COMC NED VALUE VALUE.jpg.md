@@ -1,5 +1,5 @@
 # 1974 - M460M - 4-126-02-001 - IOOCP OECP ICK ECABIKED COMC NED VALUE VALUE.jpg
-Wiki page: [M460M](../../../../PAGES/M460M.md)
+Wiki page: [M460M](../)
 
 
 - **Year:** 1974 (module estimate (labelled))

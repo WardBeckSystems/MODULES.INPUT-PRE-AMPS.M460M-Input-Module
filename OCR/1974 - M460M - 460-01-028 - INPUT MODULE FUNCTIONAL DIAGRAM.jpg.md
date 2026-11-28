@@ -1,5 +1,5 @@
 # 1974 - M460M - 460-01-028 - INPUT MODULE FUNCTIONAL DIAGRAM.jpg
-Wiki page: [M460M](../../../../PAGES/M460M.md)
+Wiki page: [M460M](../)
 
 
 - **Year:** 1974 (module estimate (labelled))

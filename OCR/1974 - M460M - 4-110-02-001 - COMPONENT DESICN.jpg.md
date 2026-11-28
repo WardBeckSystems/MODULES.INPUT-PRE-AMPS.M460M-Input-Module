@@ -1,5 +1,5 @@
 # 1974 - M460M - 4-110-02-001 - COMPONENT DESICN.jpg
-Wiki page: [M460M](../../../../PAGES/M460M.md)
+Wiki page: [M460M](../)
 
 
 - **Year:** 1974 (module estimate (labelled))

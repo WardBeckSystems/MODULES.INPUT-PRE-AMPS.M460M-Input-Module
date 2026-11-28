@@ -1,5 +1,5 @@
 # 1974 - M460M - 14-054-02-001 - SOUND REINFORCEMENT AMPLIFIER SCHEMATIC (2).jpg
-Wiki page: [M460M](../../../../PAGES/M460M.md)
+Wiki page: [M460M](../)
 
 
 - **Year:** 1974 (module estimate (labelled))

@@ -1,5 +1,5 @@
 # 1974 - 4-110-06-001 - 4-110 PRE-AMP HP FILTER COMPONENT LAYOUT - DRN DM.jpg
-Wiki page: [M460M](../../../../PAGES/M460M.md)
+Wiki page: [M460M](../)
 
 
 - **Year:** 1974 (title block date)

@@ -1,5 +1,5 @@
 # 1974 - M460M - 460-06-028 - OUNI RLNOPCIMNT INATX AMI'I.jpg
-Wiki page: [M460M](../../../../PAGES/M460M.md)
+Wiki page: [M460M](../)
 
 
 - **Year:** 1974 (module estimate (labelled))

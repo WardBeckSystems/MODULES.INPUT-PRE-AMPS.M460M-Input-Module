@@ -1,5 +1,5 @@
 # 1974 - M460M - 460-02-028 - ILTE PRE-AMPLIF IER.jpg
-Wiki page: [M460M](../../../../PAGES/M460M.md)
+Wiki page: [M460M](../)
 
 
 - **Year:** 1974 (module estimate (labelled))

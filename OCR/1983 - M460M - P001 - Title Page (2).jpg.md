@@ -1,5 +1,5 @@
 # 1983 - M460M - P001 - Title Page (2).jpg
-Wiki page: [M460M](../../../../PAGES/M460M.md)
+Wiki page: [M460M](../)
 
 
 - **Year:** 1983 (found in this file: "MANUAL ISSUE # APRIL 1983")
